@@ -1,0 +1,23 @@
+# Ambiente / cache
+.venv/
+__pycache__/
+*.pyc
+
+# Resultados e figuras de experimentos (dados gerados, não versionados)
+results/
+figures/
+paper/
+*.apconf
+
+# Logs de execução
+*.log
+
+# Segredos (defesa extra, além de nunca hardcodar valores)
+.env
+
+# Config local do Claude Code (tem chaves/tokens em texto puro nas permissões)
+.claude/
+
+# Chat real do GP de Interlagos — contém nomes reais de pessoas (PII), nunca publicado
+# (o artigo só publica o dataset sintético derivado disso, sem identificação de ninguém)
+_chat_real.txt

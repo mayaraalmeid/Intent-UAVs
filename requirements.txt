@@ -1,0 +1,5 @@
+anthropic
+openai
+matplotlib
+numpy
+scipy

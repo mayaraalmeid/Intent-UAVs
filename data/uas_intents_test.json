@@ -1,0 +1,502 @@
+[
+  {
+    "timestamp": "28/10/2022 09:59:55",
+    "sender": "Control",
+    "text": "Any teams operating at the moment?",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:00:00",
+    "sender": "UAS-61",
+    "text": "UAS-61 requesting departure, Yellow Zone, 50 meters.",
+    "intent": "I1",
+    "drone": "UAS-61",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:00:00",
+    "sender": "UAV-04",
+    "text": "Control, UAV-04 requesting takeoff. Orange Zone, 60m.",
+    "intent": "I1",
+    "drone": "UAV-04",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:00:30",
+    "sender": "Control",
+    "text": "UAS-61 cleared for takeoff, wind 306°/18kt, report when airborne.",
+    "intent": "I1",
+    "drone": "",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:00:30",
+    "sender": "Control",
+    "text": "UAV-04, takeoff at your discretion. Wind 160°/10kt. Report airborne.",
+    "intent": "I1",
+    "drone": "",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:00:44",
+    "sender": "Control",
+    "text": "Operations update — maintain separation.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:01:00",
+    "sender": "UAS-61",
+    "text": "Aircraft off ground.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:01:00",
+    "sender": "RPA-88",
+    "text": "Control, RPA-88 requesting takeoff. Green Zone, 30m.",
+    "intent": "I1",
+    "drone": "RPA-88",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:01:00",
+    "sender": "UAV-04",
+    "text": "Airborne.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:01:15",
+    "sender": "Control",
+    "text": "Acknowledged.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:01:15",
+    "sender": "Control",
+    "text": "Copy 👍",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:01:30",
+    "sender": "Control",
+    "text": "Authorized RPA-88. Wind 160°/10kt. Report airborne.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:02:00",
+    "sender": "UAS-81",
+    "text": "Control, UAS-81 requesting takeoff clearance, Blue Zone, altitude 30m.",
+    "intent": "I1",
+    "drone": "UAS-81",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:02:00",
+    "sender": "RPA-88",
+    "text": "RPA-88 off ground.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:02:00",
+    "sender": "AERIAL-100",
+    "text": "Control, AERIAL-100 here.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:02:08",
+    "sender": "AERIAL-100",
+    "text": "Requesting takeoff, Red Zone, 40m.",
+    "intent": "I1",
+    "drone": "AERIAL-100",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:02:15",
+    "sender": "Control",
+    "text": "Control copies.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:02:30",
+    "sender": "Control",
+    "text": "UAS-81, takeoff at your discretion. Wind 306°/18kt. Report airborne.",
+    "intent": "I1",
+    "drone": "",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:02:30",
+    "sender": "Control",
+    "text": "AERIAL-100, departure authorized, Red Zone, 40m. Wind 160°/10kt. Report airborne.",
+    "intent": "I1",
+    "drone": "",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:03:00",
+    "sender": "UAS-81",
+    "text": "UAS-81 off ground.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:03:00",
+    "sender": "AERIAL-100",
+    "text": "Aircraft off ground.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:03:15",
+    "sender": "Control",
+    "text": "Copy, report on return.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:03:15",
+    "sender": "Control",
+    "text": "Control copies.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:06:00",
+    "sender": "DRONE-22",
+    "text": "DRONE-22 awaiting takeoff authorization, Yellow Zone, 50m.",
+    "intent": "I1",
+    "drone": "DRONE-22",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:06:30",
+    "sender": "Control",
+    "text": "DRONE-22 cleared for takeoff, wind 277°/13kt, report when airborne.",
+    "intent": "I1",
+    "drone": "",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:07:00",
+    "sender": "DRONE-22",
+    "text": "DRONE-22 off ground.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:07:15",
+    "sender": "Control",
+    "text": "Acknowledged.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:09:00",
+    "sender": "RPA-38",
+    "text": "Control, RPA-38 requesting takeoff. Yellow Zone, 40m.",
+    "intent": "I1",
+    "drone": "RPA-38",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:09:30",
+    "sender": "Control",
+    "text": "RPA-38, takeoff at your discretion. Wind 150°/05kt. Report airborne.",
+    "intent": "I1",
+    "drone": "",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:10:00",
+    "sender": "DRONE-27",
+    "text": "Control, DRONE-27 requesting takeoff clearance, Red Zone, altitude 30m.",
+    "intent": "I1",
+    "drone": "DRONE-27",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:10:00",
+    "sender": "RPA-38",
+    "text": "RPA-38 off ground.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:10:15",
+    "sender": "Control",
+    "text": "Control copies.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:10:30",
+    "sender": "Control",
+    "text": "DRONE-27, departure authorized, Red Zone, 30m. Wind 233°/18kt. Report airborne.",
+    "intent": "I1",
+    "drone": "",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:11:00",
+    "sender": "Control",
+    "text": "Team, UAS-61 reported in Yellow Zone, altitude 20m.",
+    "intent": "I3",
+    "drone": "Control",
+    "action": "update",
+    "bandwidth": 1000,
+    "reason": "In-flight: handover enabled"
+  },
+  {
+    "timestamp": "28/10/2022 10:11:00",
+    "sender": "DRONE-27",
+    "text": "Off the ground.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:11:15",
+    "sender": "Control",
+    "text": "Acknowledged.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:12:00",
+    "sender": "RPA-03",
+    "text": "RPA-03 requesting departure, Red Zone, 60 meters.",
+    "intent": "I1",
+    "drone": "RPA-03",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:12:00",
+    "sender": "UAV-44",
+    "text": "Control, UAV-44 requesting takeoff clearance, Yellow Zone, altitude 30m.",
+    "intent": "I1",
+    "drone": "UAV-44",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:12:30",
+    "sender": "Control",
+    "text": "RPA-03, departure authorized. Wind 150°/05kt.",
+    "intent": "I1",
+    "drone": "",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:12:30",
+    "sender": "Control",
+    "text": "Authorized UAV-44. Wind 150°/05kt. Report airborne.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:12:47",
+    "sender": "Control",
+    "text": "Report airborne.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:13:00",
+    "sender": "UAS-96",
+    "text": "Control, UAS-96 requesting takeoff clearance.",
+    "intent": "I1",
+    "drone": "UAS-96",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:13:00",
+    "sender": "RPA-03",
+    "text": "Airborne.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:13:00",
+    "sender": "UAV-44",
+    "text": "Aircraft off ground.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:13:08",
+    "sender": "UAS-96",
+    "text": "Yellow Zone, altitude 40m.",
+    "intent": "I3",
+    "drone": "UAS-96",
+    "action": "update",
+    "bandwidth": 1000,
+    "reason": "In-flight: handover enabled"
+  },
+  {
+    "timestamp": "28/10/2022 10:13:15",
+    "sender": "Control",
+    "text": "Control copies.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:13:30",
+    "sender": "Control",
+    "text": "UAS-96, takeoff at your discretion. Wind 150°/05kt. Report airborne.",
+    "intent": "I1",
+    "drone": "",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  },
+  {
+    "timestamp": "28/10/2022 10:14:00",
+    "sender": "UAS-96",
+    "text": "Off the ground.",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:14:36",
+    "sender": "Control",
+    "text": "Any teams operating at the moment?",
+    "intent": "I0",
+    "drone": "",
+    "action": "none",
+    "bandwidth": null,
+    "reason": ""
+  },
+  {
+    "timestamp": "28/10/2022 10:16:00",
+    "sender": "UAS-51",
+    "text": "UAS-51 awaiting takeoff authorization, Red Zone, 60m.",
+    "intent": "I1",
+    "drone": "UAS-51",
+    "action": "grant",
+    "bandwidth": 2000,
+    "reason": "Takeoff: grant URLLC"
+  }
+]

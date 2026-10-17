@@ -1,0 +1,1151 @@
+timestamp,sender,intent,mensagem,lat,lng,ciclo_id,fragmento
+2022-10-28 09:59:55.000000000,Control,outros,Any teams operating at the moment?,31.25107,121.40004,,False
+2022-10-28 10:00:00.000000000,UAS-61,I1,"UAS-61 requesting departure, Yellow Zone, 50 meters.",31.18774,121.53063,72.0,False
+2022-10-28 10:00:00.000000000,UAV-04,I1,"Control, UAV-04 requesting takeoff. Orange Zone, 60m.",31.17537,121.63177,5.0,False
+2022-10-28 10:00:30.000000000,Control,I2,"UAS-61 cleared for takeoff, wind 306°/18kt, report when airborne.",31.18774,121.53063,72.0,False
+2022-10-28 10:00:30.000000000,Control,I2,"UAV-04, takeoff at your discretion. Wind 160°/10kt. Report airborne.",31.17537,121.63177,5.0,False
+2022-10-28 10:00:44.000000000,Control,outros,Operations update — maintain separation.,31.24288,121.54609,,False
+2022-10-28 10:01:00.000000000,UAS-61,,Aircraft off ground.,31.18774,121.53063,,False
+2022-10-28 10:01:00.000000000,RPA-88,I1,"Control, RPA-88 requesting takeoff. Green Zone, 30m.",31.25107,121.40004,103.0,False
+2022-10-28 10:01:00.000000000,UAV-04,,Airborne.,31.17537,121.63177,,False
+2022-10-28 10:01:15.000000000,Control,,Acknowledged.,31.18774,121.53063,,False
+2022-10-28 10:01:15.000000000,Control,,Copy 👍,31.17537,121.63177,,False
+2022-10-28 10:01:30.000000000,Control,I2,Authorized RPA-88. Wind 160°/10kt. Report airborne.,31.25107,121.40004,103.0,False
+2022-10-28 10:02:00.000000000,UAS-81,I1,"Control, UAS-81 requesting takeoff clearance, Blue Zone, altitude 30m.",31.24033,121.43569,95.0,False
+2022-10-28 10:02:00.000000000,RPA-88,,RPA-88 off ground.,31.25107,121.40004,,False
+2022-10-28 10:02:00.000000000,AERIAL-100,I1,"Control, AERIAL-100 here.",31.24288,121.54609,116.0,False
+2022-10-28 10:02:08.000000000,AERIAL-100,I1,"Requesting takeoff, Red Zone, 40m.",31.24288,121.54609,116.0,True
+2022-10-28 10:02:15.000000000,Control,,Control copies.,31.25107,121.40004,,False
+2022-10-28 10:02:30.000000000,Control,I2,"UAS-81, takeoff at your discretion. Wind 306°/18kt. Report airborne.",31.24033,121.43569,95.0,False
+2022-10-28 10:02:30.000000000,Control,I2,"AERIAL-100, departure authorized, Red Zone, 40m. Wind 160°/10kt. Report airborne.",31.24288,121.54609,116.0,False
+2022-10-28 10:03:00.000000000,UAS-81,,UAS-81 off ground.,31.24033,121.43569,,False
+2022-10-28 10:03:00.000000000,AERIAL-100,,Aircraft off ground.,31.24288,121.54609,,False
+2022-10-28 10:03:15.000000000,Control,,"Copy, report on return.",31.24288,121.54609,,False
+2022-10-28 10:03:15.000000000,Control,,Control copies.,31.24033,121.43569,,False
+2022-10-28 10:06:00.000000000,DRONE-22,I1,"DRONE-22 awaiting takeoff authorization, Yellow Zone, 50m.",31.18783,121.53077,26.0,False
+2022-10-28 10:06:30.000000000,Control,I2,"DRONE-22 cleared for takeoff, wind 277°/13kt, report when airborne.",31.18783,121.53077,26.0,False
+2022-10-28 10:07:00.000000000,DRONE-22,,DRONE-22 off ground.,31.18783,121.53077,,False
+2022-10-28 10:07:15.000000000,Control,,Acknowledged.,31.18783,121.53077,,False
+2022-10-28 10:09:00.000000000,RPA-38,I1,"Control, RPA-38 requesting takeoff. Yellow Zone, 40m.",31.18772,121.53069,43.0,False
+2022-10-28 10:09:30.000000000,Control,I2,"RPA-38, takeoff at your discretion. Wind 150°/05kt. Report airborne.",31.18772,121.53069,43.0,False
+2022-10-28 10:10:00.000000000,DRONE-27,I1,"Control, DRONE-27 requesting takeoff clearance, Red Zone, altitude 30m.",31.24281,121.54608,31.0,False
+2022-10-28 10:10:00.000000000,RPA-38,,RPA-38 off ground.,31.18772,121.53069,,False
+2022-10-28 10:10:15.000000000,Control,,Control copies.,31.18772,121.53069,,False
+2022-10-28 10:10:30.000000000,Control,I2,"DRONE-27, departure authorized, Red Zone, 30m. Wind 233°/18kt. Report airborne.",31.24281,121.54608,31.0,False
+2022-10-28 10:11:00.000000000,Control,I7,"Team, UAS-61 reported in Yellow Zone, altitude 20m.",31.188123,121.53025,,False
+2022-10-28 10:11:00.000000000,DRONE-27,,Off the ground.,31.24281,121.54608,,False
+2022-10-28 10:11:15.000000000,Control,,Acknowledged.,31.24281,121.54608,,False
+2022-10-28 10:12:00.000000000,RPA-03,I1,"RPA-03 requesting departure, Red Zone, 60 meters.",31.24294,121.5461,3.0,False
+2022-10-28 10:12:00.000000000,UAV-44,I1,"Control, UAV-44 requesting takeoff clearance, Yellow Zone, altitude 30m.",31.18776,121.53071,50.0,False
+2022-10-28 10:12:30.000000000,Control,I2,"RPA-03, departure authorized. Wind 150°/05kt.",31.24294,121.5461,3.0,False
+2022-10-28 10:12:30.000000000,Control,I2,Authorized UAV-44. Wind 150°/05kt. Report airborne.,31.18776,121.53071,50.0,False
+2022-10-28 10:12:47.000000000,Control,I2,Report airborne.,31.24294,121.5461,3.0,True
+2022-10-28 10:13:00.000000000,UAS-96,I1,"Control, UAS-96 requesting takeoff clearance.",31.18778,121.5307,112.0,False
+2022-10-28 10:13:00.000000000,RPA-03,,Airborne.,31.24294,121.5461,,False
+2022-10-28 10:13:00.000000000,UAV-44,,Aircraft off ground.,31.18776,121.53071,,False
+2022-10-28 10:13:08.000000000,UAS-96,I1,"Yellow Zone, altitude 40m.",31.18778,121.5307,112.0,True
+2022-10-28 10:13:15.000000000,Control,,Control copies.,31.18776,121.53071,,False
+2022-10-28 10:13:30.000000000,Control,I2,"UAS-96, takeoff at your discretion. Wind 150°/05kt. Report airborne.",31.18778,121.5307,112.0,False
+2022-10-28 10:14:00.000000000,UAS-96,,Off the ground.,31.18778,121.5307,,False
+2022-10-28 10:14:36.000000000,Control,outros,Any teams operating at the moment?,31.24295,121.54616,,False
+2022-10-28 10:16:00.000000000,UAS-51,I1,"UAS-51 awaiting takeoff authorization, Red Zone, 60m.",31.24295,121.54616,59.0,False
+2022-10-28 10:16:00.000000000,AERIAL-105,I1,"AERIAL-105 awaiting takeoff authorization, Red Zone, 20m.",31.24289,121.54615,121.0,False
+2022-10-28 10:16:26.000000000,Control,outros,Weather holding. Proceed normally.,31.24292,121.54603,,False
+2022-10-28 10:16:30.000000000,Control,I2,"UAS-51, departure authorized. Wind 233°/18kt.",31.24295,121.54616,59.0,False
+2022-10-28 10:16:30.000000000,Control,I2,"AERIAL-105, takeoff at your discretion. Wind 150°/05kt. Report airborne.",31.24289,121.54615,121.0,False
+2022-10-28 10:16:47.000000000,Control,I2,Report airborne.,31.24295,121.54616,59.0,True
+2022-10-28 10:17:00.000000000,AERIAL-105,,Airborne.,31.24289,121.54615,,False
+2022-10-28 10:17:00.000000000,UAS-51,,Aircraft off ground.,31.24295,121.54616,,False
+2022-10-28 10:17:00.000000000,AERIAL-15,I1,"Control, AERIAL-15 requesting takeoff clearance, Red Zone, altitude 60m.",31.24292,121.54603,18.0,False
+2022-10-28 10:17:15.000000000,Control,,Acknowledged.,31.24295,121.54616,,False
+2022-10-28 10:17:15.000000000,Control,,Control copies.,31.24289,121.54615,,False
+2022-10-28 10:17:30.000000000,Control,I2,"AERIAL-15 cleared for takeoff, wind 306°/18kt, report when airborne.",31.24292,121.54603,18.0,False
+2022-10-28 10:18:00.000000000,AERIAL-15,,Aircraft airborne.,31.24292,121.54603,,False
+2022-10-28 10:18:00.000000000,UAV-69,I1,"Control, UAV-69 requesting takeoff. White Zone, 30m.",31.189,121.56013,82.0,False
+2022-10-28 10:18:15.000000000,Control,,Acknowledged.,31.24292,121.54603,,False
+2022-10-28 10:18:30.000000000,Control,I2,"UAV-69, departure authorized, White Zone, 30m. Wind 233°/18kt. Report airborne.",31.189,121.56013,82.0,False
+2022-10-28 10:19:00.000000000,UAV-69,,UAV-69 airborne.,31.189,121.56013,,False
+2022-10-28 10:19:00.000000000,UAV-24,I1,"Control, UAV-24 requesting takeoff. Red Zone, 50m.",31.24294,121.54616,28.0,False
+2022-10-28 10:19:30.000000000,Control,I2,"UAV-24 cleared for takeoff, wind 277°/13kt, report when airborne.",31.24294,121.54616,28.0,False
+2022-10-28 10:20:00.000000000,UAV-24,,Aircraft airborne.,31.24294,121.54616,,False
+2022-10-28 10:20:00.000000000,AERIAL-70,I1,AERIAL-70 requesting departure.,31.18785,121.53066,83.0,False
+2022-10-28 10:20:08.000000000,AERIAL-70,I1,"Yellow Zone, 60m.",31.18785,121.53066,83.0,True
+2022-10-28 10:20:15.000000000,Control,,🫡,31.24294,121.54616,,False
+2022-10-28 10:20:30.000000000,Control,I2,"AERIAL-70, departure authorized, Yellow Zone, 60m. Wind 306°/18kt. Report airborne.",31.18785,121.53066,83.0,False
+2022-10-28 10:21:00.000000000,AERIAL-70,,AERIAL-70 airborne.,31.18785,121.53066,,False
+2022-10-28 10:21:15.000000000,Control,,Control copies.,31.18785,121.53066,,False
+2022-10-28 10:24:00.000000000,Control,I7,"Team, UAS-96 reported in Yellow Zone, altitude 30m.",31.18891,121.532552,,False
+2022-10-28 10:26:00.000000000,RPA-108,I1,"RPA-108 awaiting takeoff authorization, Yellow Zone, 60m.",31.18782,121.5307,125.0,False
+2022-10-28 10:26:00.000000000,UAV-64,I1,"Control, UAV-64 requesting takeoff. Blue Zone, 30m.",31.24047,121.43555,76.0,False
+2022-10-28 10:26:30.000000000,Control,I2,"RPA-108, takeoff at your discretion. Wind 150°/05kt. Report airborne.",31.18782,121.5307,125.0,False
+2022-10-28 10:26:30.000000000,Control,I2,Authorized UAV-64. Wind 233°/18kt. Report airborne.,31.24047,121.43555,76.0,False
+2022-10-28 10:27:00.000000000,UAV-64,,Aircraft airborne.,31.24047,121.43555,,False
+2022-10-28 10:27:00.000000000,RPA-108,,Aircraft airborne.,31.18782,121.5307,,False
+2022-10-28 10:27:15.000000000,Control,,"Copy, report on return.",31.18782,121.5307,,False
+2022-10-28 10:29:00.000000000,DRONE-82,I1,"Control, DRONE-82 requesting takeoff. Blue Zone, 30m.",31.2404,121.43557,96.0,False
+2022-10-28 10:29:00.000000000,AERIAL-95,I1,"Control, AERIAL-95 requesting takeoff clearance, Green Zone, altitude 60m.",31.25098,121.40019,111.0,False
+2022-10-28 10:29:30.000000000,Control,I2,"AERIAL-95, takeoff at your discretion. Wind 233°/18kt. Report airborne.",31.25098,121.40019,111.0,False
+2022-10-28 10:29:30.000000000,Control,I2,Authorized DRONE-82. Wind 277°/13kt. Report airborne.,31.2404,121.43557,96.0,False
+2022-10-28 10:30:00.000000000,DRONE-82,,Off the ground.,31.2404,121.43557,,False
+2022-10-28 10:30:00.000000000,Control,I7,"Advising RPA-108 in Yellow Zone, same altitude.",31.186245,121.52844,,False
+2022-10-28 10:30:00.000000000,AERIAL-80,I1,"AERIAL-80 requesting departure, Orange Zone, 60 meters.",31.17548,121.63176,94.0,False
+2022-10-28 10:30:00.000000000,AERIAL-95,,Off the ground.,31.25098,121.40019,,False
+2022-10-28 10:30:00.000000000,Control,I7,"Heads up — AERIAL-105 flying in Red Zone, same level.",31.240725,121.544332,,False
+2022-10-28 10:30:15.000000000,Control,,Copy 👍,31.25098,121.40019,,False
+2022-10-28 10:30:30.000000000,Control,I2,Authorized AERIAL-80. Wind 306°/18kt. Report airborne.,31.17548,121.63176,94.0,False
+2022-10-28 10:31:00.000000000,AERIAL-80,,Airborne.,31.17548,121.63176,,False
+2022-10-28 10:33:13.000000000,Control,outros,Any teams operating at the moment?,31.17532,121.63175,,False
+2022-10-28 10:34:00.000000000,UAS-01,I1,"Control, UAS-01 requesting takeoff clearance, Orange Zone, altitude 20m.",31.17532,121.63175,1.0,False
+2022-10-28 10:34:00.000000000,DRONE-37,I1,"Control, DRONE-37 requesting takeoff. White Zone, 50m.",31.18908,121.56029,42.0,False
+2022-10-28 10:34:02.027740842,Control,outros,Anyone available for frequency check?,31.192813,121.53036,,False
+2022-10-28 10:34:03.000000000,Control,outros,"All teams, confirm radio before departure.",31.24282,121.54605,,False
+2022-10-28 10:34:30.000000000,Control,I2,"DRONE-37, departure authorized, White Zone, 50m. Wind 306°/18kt. Report airborne.",31.18908,121.56029,42.0,False
+2022-10-28 10:34:30.000000000,Control,I2,"UAS-01, departure authorized. Wind 277°/13kt.",31.17532,121.63175,1.0,False
+2022-10-28 10:34:47.000000000,Control,I2,Report airborne.,31.17532,121.63175,1.0,True
+2022-10-28 10:35:00.000000000,DRONE-37,,Aircraft off ground.,31.18908,121.56029,,False
+2022-10-28 10:35:00.000000000,UAS-01,,Aircraft airborne.,31.17532,121.63175,,False
+2022-10-28 10:35:00.000000000,UAV-94,I1,"Control, UAV-94 requesting takeoff clearance, Red Zone, altitude 60m.",31.24282,121.54605,110.0,False
+2022-10-28 10:35:00.000000000,RPA-33,I1,"Control, RPA-33 requesting takeoff clearance.",31.18778,121.53077,37.0,False
+2022-10-28 10:35:08.000000000,RPA-33,I1,"Yellow Zone, altitude 60m.",31.18778,121.53077,37.0,True
+2022-10-28 10:35:15.000000000,Control,,Control copies.,31.17532,121.63175,,False
+2022-10-28 10:35:15.000000000,Control,,"Copy, report on return.",31.18908,121.56029,,False
+2022-10-28 10:35:30.000000000,Control,I2,"RPA-33 cleared for takeoff, wind 277°/13kt, report when airborne.",31.18778,121.53077,37.0,False
+2022-10-28 10:35:30.000000000,Control,I2,"UAV-94, takeoff at your discretion. Wind 150°/05kt. Report airborne.",31.24282,121.54605,110.0,False
+2022-10-28 10:36:00.000000000,DRONE-32,I1,"DRONE-32 awaiting takeoff authorization, Orange Zone, 40m.",31.17539,121.63176,36.0,False
+2022-10-28 10:36:00.000000000,RPA-33,,RPA-33 airborne.,31.18778,121.53077,,False
+2022-10-28 10:36:00.000000000,AERIAL-10,I1,AERIAL-10 awaiting takeoff authorization.,31.24288,121.54612,12.0,False
+2022-10-28 10:36:00.000000000,AERIAL-45,I1,"AERIAL-45 requesting departure, White Zone, 60 meters.",31.18894,121.56013,51.0,False
+2022-10-28 10:36:00.000000000,UAV-94,,Aircraft off ground.,31.24282,121.54605,,False
+2022-10-28 10:36:08.000000000,AERIAL-10,I1,"Zone: Red Zone, 20m.",31.24288,121.54612,12.0,True
+2022-10-28 10:36:15.000000000,Control,,Copy 👍,31.24282,121.54605,,False
+2022-10-28 10:36:30.000000000,Control,I2,"DRONE-32 cleared for takeoff, wind 150°/05kt, report when airborne.",31.17539,121.63176,36.0,False
+2022-10-28 10:36:30.000000000,Control,I2,Authorized AERIAL-10. Wind 233°/18kt. Report airborne.,31.24288,121.54612,12.0,False
+2022-10-28 10:36:30.000000000,Control,I2,Authorized AERIAL-45. Wind 233°/18kt. Report airborne.,31.18894,121.56013,51.0,False
+2022-10-28 10:37:00.000000000,AERIAL-45,,Aircraft airborne.,31.18894,121.56013,,False
+2022-10-28 10:37:00.000000000,DRONE-32,,Airborne.,31.17539,121.63176,,False
+2022-10-28 10:37:00.000000000,AERIAL-10,,Aircraft airborne.,31.24288,121.54612,,False
+2022-10-28 10:37:15.000000000,Control,,Control copies.,31.24288,121.54612,,False
+2022-10-28 10:37:15.000000000,Control,,Control copies.,31.18894,121.56013,,False
+2022-10-28 10:37:15.000000000,Control,,🫡,31.17539,121.63176,,False
+2022-10-28 10:38:00.000000000,RPA-28,I1,"Control, RPA-28 requesting takeoff clearance, Blue Zone, altitude 30m.",31.2404,121.43555,32.0,False
+2022-10-28 10:38:00.000000000,AERIAL-65,I1,"Control, AERIAL-65 here.",31.18775,121.53069,77.0,False
+2022-10-28 10:38:00.000000000,DRONE-107,I1,"Control, DRONE-107 requesting takeoff. Blue Zone, 20m.",31.24045,121.43554,124.0,False
+2022-10-28 10:38:00.000000000,Control,I7,Advising UAV-44 operating in Yellow Zone at 20m.,31.185905,121.531343,,False
+2022-10-28 10:38:08.000000000,AERIAL-65,I1,"Requesting takeoff, Yellow Zone, 30m.",31.18775,121.53069,77.0,True
+2022-10-28 10:38:30.000000000,Control,I2,"DRONE-107 cleared for takeoff, wind 277°/13kt, report when airborne.",31.24045,121.43554,124.0,False
+2022-10-28 10:38:30.000000000,Control,I2,Authorized AERIAL-65. Wind 150°/05kt. Report airborne.,31.18775,121.53069,77.0,False
+2022-10-28 10:38:30.000000000,Control,I2,Authorized RPA-28. Wind 277°/13kt. Report airborne.,31.2404,121.43555,32.0,False
+2022-10-28 10:39:00.000000000,UAV-84,I1,"Control, UAV-84 requesting takeoff. White Zone, 20m.",31.18903,121.56023,98.0,False
+2022-10-28 10:39:00.000000000,DRONE-107,,DRONE-107 airborne.,31.24045,121.43554,,False
+2022-10-28 10:39:00.000000000,RPA-28,,Off the ground.,31.2404,121.43555,,False
+2022-10-28 10:39:00.000000000,AERIAL-65,,Off the ground.,31.18775,121.53069,,False
+2022-10-28 10:39:15.000000000,Control,,Acknowledged.,31.2404,121.43555,,False
+2022-10-28 10:39:30.000000000,Control,I2,"UAV-84, departure authorized, White Zone, 20m. Wind 277°/13kt. Report airborne.",31.18903,121.56023,98.0,False
+2022-10-28 10:40:00.000000000,UAV-84,,Off the ground.,31.18903,121.56023,,False
+2022-10-28 10:40:00.000000000,RPA-103,I1,"RPA-103 awaiting takeoff authorization, Blue Zone, 50m.",31.24043,121.43563,119.0,False
+2022-10-28 10:40:00.000000000,Control,I7,"Team, UAV-24 reported in Red Zone, altitude 30m.",31.239793,121.542722,,False
+2022-10-28 10:40:15.000000000,Control,,"Copy, report on return.",31.18903,121.56023,,False
+2022-10-28 10:40:30.000000000,Control,I2,"RPA-103, takeoff at your discretion. Wind 306°/18kt. Report airborne.",31.24043,121.43563,119.0,False
+2022-10-28 10:41:00.000000000,UAV-09,I1,"UAV-09 requesting departure, Red Zone, 50 meters.",31.24293,121.54609,10.0,False
+2022-10-28 10:41:00.000000000,RPA-103,,RPA-103 airborne.,31.24043,121.43563,,False
+2022-10-28 10:41:00.000000000,Control,I7,UAS-51 operating in same area at 50m.,31.241953,121.54597,,False
+2022-10-28 10:41:30.000000000,Control,I2,"UAV-09, departure authorized. Wind 233°/18kt.",31.24293,121.54609,10.0,False
+2022-10-28 10:41:47.000000000,Control,I2,Report airborne.,31.24293,121.54609,10.0,True
+2022-10-28 10:42:00.000000000,UAV-09,,Aircraft off ground.,31.24293,121.54609,,False
+2022-10-28 10:42:00.000000000,Control,I7,"Team, UAS-61 reported in Yellow Zone, altitude 50m.",31.18652,121.53064,,False
+2022-10-28 10:42:15.000000000,Control,,Copy 👍,31.24293,121.54609,,False
+2022-10-28 10:42:19.000000000,Control,outros,Frequency check — all units respond.,31.25096,121.40008,,False
+2022-10-28 10:43:00.000000000,UAV-74,I1,"Control, UAV-74 requesting takeoff clearance, Green Zone, altitude 20m.",31.25096,121.40008,87.0,False
+2022-10-28 10:43:30.000000000,Control,I2,"UAV-74, takeoff at your discretion. Wind 306°/18kt. Report airborne.",31.25096,121.40008,87.0,False
+2022-10-28 10:44:00.000000000,UAV-74,,Airborne.,31.25096,121.40008,,False
+2022-10-28 10:44:00.000000000,DRONE-87,I1,"Control, DRONE-87 requesting takeoff. Blue Zone, 30m.",31.24037,121.43557,101.0,False
+2022-10-28 10:44:30.000000000,Control,I2,Authorized DRONE-87. Wind 306°/18kt. Report airborne.,31.24037,121.43557,101.0,False
+2022-10-28 10:44:40.000000000,Control,outros,"All teams, confirm radio before departure.",31.18895,121.56029,,False
+2022-10-28 10:45:00.000000000,DRONE-87,,DRONE-87 off ground.,31.24037,121.43557,,False
+2022-10-28 10:45:15.000000000,Control,,"Copy, report on return.",31.24037,121.43557,,False
+2022-10-28 10:46:00.000000000,Control,I7,"Advising UAS-96 in Yellow Zone, same altitude.",31.194047,121.531777,,False
+2022-10-28 10:46:00.000000000,DRONE-77,I1,"DRONE-77 requesting departure, Blue Zone, 60 meters.",31.24031,121.43567,90.0,False
+2022-10-28 10:46:00.000000000,RPA-43,I1,"Control, RPA-43 requesting takeoff. White Zone, 30m.",31.18895,121.56029,49.0,False
+2022-10-28 10:46:30.000000000,Control,I2,"DRONE-77, departure authorized, Blue Zone, 60m. Wind 233°/18kt. Report airborne.",31.24031,121.43567,90.0,False
+2022-10-28 10:46:30.000000000,Control,I2,"RPA-43, takeoff at your discretion. Wind 150°/05kt. Report airborne.",31.18895,121.56029,49.0,False
+2022-10-28 10:47:00.000000000,DRONE-77,,Aircraft off ground.,31.24031,121.43567,,False
+2022-10-28 10:47:00.000000000,UAV-104,I1,"Control, UAV-104 requesting takeoff clearance, Orange Zone, altitude 60m.",31.17547,121.63179,120.0,False
+2022-10-28 10:47:00.000000000,RPA-43,,RPA-43 off ground.,31.18895,121.56029,,False
+2022-10-28 10:47:15.000000000,Control,,Acknowledged.,31.24031,121.43567,,False
+2022-10-28 10:47:30.000000000,Control,I2,"UAV-104, departure authorized, Orange Zone, 60m. Wind 150°/05kt. Report airborne.",31.17547,121.63179,120.0,False
+2022-10-28 10:48:00.000000000,UAS-21,I1,"Control, UAS-21 requesting takeoff clearance, Red Zone, altitude 60m.",31.24286,121.54602,25.0,False
+2022-10-28 10:48:00.000000000,UAV-104,,Aircraft off ground.,31.17547,121.63179,,False
+2022-10-28 10:48:15.000000000,Control,,Copy 👍,31.17547,121.63179,,False
+2022-10-28 10:48:30.000000000,Control,I2,"UAS-21, departure authorized. Wind 160°/10kt.",31.24286,121.54602,25.0,False
+2022-10-28 10:48:47.000000000,Control,I2,Report airborne.,31.24286,121.54602,25.0,True
+2022-10-28 10:49:00.000000000,UAS-21,,Aircraft airborne.,31.24286,121.54602,,False
+2022-10-28 10:49:00.000000000,RPA-93,I1,"Control, RPA-93 requesting takeoff. Green Zone, 30m.",31.25101,121.40013,109.0,False
+2022-10-28 10:49:14.000000000,Control,outros,"All teams, confirm radio before departure.",31.17546,121.63185,,False
+2022-10-28 10:49:30.000000000,Control,I2,"RPA-93, takeoff at your discretion. Wind 150°/05kt. Report airborne.",31.25101,121.40013,109.0,False
+2022-10-28 10:50:00.000000000,AERIAL-20,I1,AERIAL-20 awaiting takeoff authorization.,31.25105,121.40012,24.0,False
+2022-10-28 10:50:00.000000000,DRONE-62,I1,"Control, DRONE-62 here.",31.251,121.40005,73.0,False
+2022-10-28 10:50:00.000000000,AERIAL-85,I1,"Control, AERIAL-85 requesting takeoff clearance.",31.18774,121.5307,99.0,False
+2022-10-28 10:50:00.000000000,Control,I7,"Advising AERIAL-70 in Yellow Zone, same altitude.",31.192107,121.53439,,False
+2022-10-28 10:50:00.000000000,RPA-93,,Aircraft airborne.,31.25101,121.40013,,False
+2022-10-28 10:50:00.000000000,Control,I7,UAV-34 operating in same area at 60m.,31.24529,121.436645,,False
+2022-10-28 10:50:00.000000000,UAV-39,I1,UAV-39 awaiting takeoff authorization.,31.17546,121.63185,44.0,False
+2022-10-28 10:50:00.000000000,Control,I7,"Advising AERIAL-105 in Red Zone, same altitude.",31.243907,121.542305,,False
+2022-10-28 10:50:08.000000000,DRONE-62,I1,"Requesting takeoff, Green Zone, 60m.",31.251,121.40005,73.0,True
+2022-10-28 10:50:08.000000000,UAV-39,I1,"Zone: Orange Zone, 50m.",31.17546,121.63185,44.0,True
+2022-10-28 10:50:08.000000000,AERIAL-20,I1,"Zone: Green Zone, 30m.",31.25105,121.40012,24.0,True
+2022-10-28 10:50:08.000000000,AERIAL-85,I1,"Yellow Zone, altitude 60m.",31.18774,121.5307,99.0,True
+2022-10-28 10:50:15.000000000,Control,,"Copy, report on return.",31.25101,121.40013,,False
+2022-10-28 10:50:30.000000000,Control,I2,Authorized DRONE-62. Wind 306°/18kt. Report airborne.,31.251,121.40005,73.0,False
+2022-10-28 10:50:30.000000000,Control,I2,"UAV-39, departure authorized, Orange Zone, 50m. Wind 277°/13kt. Report airborne.",31.17546,121.63185,44.0,False
+2022-10-28 10:50:30.000000000,Control,I2,"AERIAL-20, departure authorized, Green Zone, 30m. Wind 277°/13kt. Report airborne.",31.25105,121.40012,24.0,False
+2022-10-28 10:50:30.000000000,Control,I2,"AERIAL-85 cleared for takeoff, wind 160°/10kt, report when airborne.",31.18774,121.5307,99.0,False
+2022-10-28 10:51:00.000000000,AERIAL-85,,Aircraft airborne.,31.18774,121.5307,,False
+2022-10-28 10:51:00.000000000,UAV-39,,UAV-39 airborne.,31.17546,121.63185,,False
+2022-10-28 10:51:00.000000000,DRONE-62,,DRONE-62 airborne.,31.251,121.40005,,False
+2022-10-28 10:51:00.000000000,Control,I7,RPA-98 operating in same area at 30m.,31.187563,121.530215,,False
+2022-10-28 10:51:00.000000000,AERIAL-20,,Aircraft airborne.,31.25105,121.40012,,False
+2022-10-28 10:51:15.000000000,Control,,"Copy, report on return.",31.25105,121.40012,,False
+2022-10-28 10:51:15.000000000,Control,,Acknowledged.,31.251,121.40005,,False
+2022-10-28 10:52:00.000000000,UAV-29,I1,"Control, UAV-29 requesting takeoff. Yellow Zone, 40m.",31.18782,121.53079,33.0,False
+2022-10-28 10:52:00.000000000,AERIAL-30,I1,"Control, AERIAL-30 requesting takeoff. Blue Zone, 20m.",31.24036,121.43561,34.0,False
+2022-10-28 10:52:30.000000000,Control,I2,Authorized UAV-29. Wind 160°/10kt. Report airborne.,31.18782,121.53079,33.0,False
+2022-10-28 10:52:30.000000000,Control,I2,Authorized AERIAL-30. Wind 233°/18kt. Report airborne.,31.24036,121.43561,34.0,False
+2022-10-28 10:53:00.000000000,AERIAL-30,,AERIAL-30 off ground.,31.24036,121.43561,,False
+2022-10-28 10:53:00.000000000,UAV-29,,UAV-29 off ground.,31.18782,121.53079,,False
+2022-10-28 10:53:15.000000000,Control,,"Copy, report on return.",31.24036,121.43561,,False
+2022-10-28 10:54:00.000000000,AERIAL-100,I4,AERIAL-100 inbound for landing.,31.22966,121.54267,,False
+2022-10-28 10:54:30.000000000,Control,I5,"Copy AERIAL-100, report when on ground.",31.22966,121.54267,,False
+2022-10-28 10:55:00.000000000,AERIAL-100,I6,"AERIAL-100 on ground, mission complete.",31.22966,121.54267,,False
+2022-10-28 10:55:00.000000000,Control,I7,"Heads up — RPA-108 flying in Yellow Zone, same level.",31.187945,121.53015,,False
+2022-10-28 10:55:15.000000000,Control,,Copy 👍,31.22966,121.54267,,False
+2022-10-28 10:56:00.000000000,Control,I7,"Advising RPA-53 in Blue Zone, same altitude.",31.24257,121.43889,,False
+2022-10-28 10:56:00.000000000,UAV-19,I1,"UAV-19 awaiting takeoff authorization, Blue Zone, 30m.",31.2404,121.43555,23.0,False
+2022-10-28 10:56:00.000000000,RPA-53,I1,RPA-53 requesting departure.,31.2404,121.43555,61.0,False
+2022-10-28 10:56:08.000000000,RPA-53,I1,"Blue Zone, 20m.",31.2404,121.43555,61.0,True
+2022-10-28 10:56:30.000000000,Control,I2,Authorized RPA-53. Wind 306°/18kt. Report airborne.,31.2404,121.43555,61.0,False
+2022-10-28 10:56:30.000000000,Control,I2,"UAV-19 cleared for takeoff, wind 160°/10kt, report when airborne.",31.2404,121.43555,23.0,False
+2022-10-28 10:57:00.000000000,UAV-19,,Off the ground.,31.2404,121.43555,,False
+2022-10-28 10:57:00.000000000,RPA-53,,Aircraft airborne.,31.2404,121.43555,,False
+2022-10-28 10:57:00.000000000,Control,I7,"Team, DRONE-107 reported in Blue Zone, altitude 20m.",31.24324,121.434607,,False
+2022-10-28 10:57:15.000000000,Control,,Copy 👍,31.2404,121.43555,,False
+2022-10-28 10:57:55.749432792,UAV-44,I3,"UAV-44 — Yellow Zone, 30m, en route.",31.184392,121.534865,,False
+2022-10-28 10:58:00.000000000,AERIAL-60,I1,"AERIAL-60 awaiting takeoff authorization, Red Zone, 50m.",31.24298,121.54607,71.0,False
+2022-10-28 10:58:00.000000000,Control,I7,"Advising UAS-21 in Red Zone, same altitude.",31.241822,121.54326,,False
+2022-10-28 10:58:00.000000000,AERIAL-105,I4,"AERIAL-105 on final approach, Red Zone.",31.24541,121.54092,,False
+2022-10-28 10:58:30.000000000,Control,I2,"AERIAL-60, departure authorized. Wind 277°/13kt.",31.24298,121.54607,71.0,False
+2022-10-28 10:58:30.000000000,Control,I5,"Acknowledged AERIAL-105, report on ground.",31.24541,121.54092,,False
+2022-10-28 10:58:47.000000000,Control,I2,Report airborne.,31.24298,121.54607,71.0,True
+2022-10-28 10:59:00.000000000,AERIAL-105,I6,"AERIAL-105 on ground, mission complete.",31.24541,121.54092,,False
+2022-10-28 10:59:00.000000000,RPA-78,I1,RPA-78 requesting departure.,31.189,121.56013,91.0,False
+2022-10-28 10:59:00.000000000,AERIAL-60,,Off the ground.,31.24298,121.54607,,False
+2022-10-28 10:59:08.000000000,RPA-78,I1,"White Zone, 40m.",31.189,121.56013,91.0,True
+2022-10-28 10:59:15.000000000,Control,,🫡,31.24298,121.54607,,False
+2022-10-28 10:59:30.000000000,Control,I2,"RPA-78 cleared for takeoff, wind 277°/13kt, report when airborne.",31.189,121.56013,91.0,False
+2022-10-28 11:00:00.000000000,RPA-78,,Airborne.,31.189,121.56013,,False
+2022-10-28 11:00:00.000000000,Control,I7,"Heads up — UAV-44 flying in Yellow Zone, same level.",31.18675,121.53258,,False
+2022-10-28 11:01:00.000000000,Control,I7,Advising UAS-26 operating in Blue Zone at 20m.,31.24516,121.438815,,False
+2022-10-28 11:01:00.000000000,Control,I7,"Advising AERIAL-20 in Green Zone, same altitude.",31.247042,121.403802,,False
+2022-10-28 11:01:19.359133333,UAV-104,I3,"UAV-104 — Orange Zone, 60m, en route.",31.176222,121.635335,,False
+2022-10-28 11:02:00.000000000,Control,I7,Advising AERIAL-20 operating in Green Zone at 40m.,31.252823,121.400508,,False
+2022-10-28 11:02:00.000000000,Control,I7,"Advising UAS-46 in Red Zone, same altitude.",31.243682,121.539795,,False
+2022-10-28 11:03:17.000000000,Control,outros,All clear in this sector.,31.18786,121.53063,,False
+2022-10-28 11:03:30.000000000,Control,outros,"All teams, confirm radio before departure.",31.24033,121.43553,,False
+2022-10-28 11:04:00.000000000,UAV-14,I1,"UAV-14 awaiting takeoff authorization, Yellow Zone, 20m.",31.18786,121.53063,16.0,False
+2022-10-28 11:04:00.000000000,UAS-11,I1,"UAS-11 requesting departure, Orange Zone, 30 meters.",31.1754,121.6318,13.0,False
+2022-10-28 11:04:26.000000000,Control,outros,Any teams operating at the moment?,31.25097,121.40002,,False
+2022-10-28 11:04:30.000000000,Control,I2,Authorized UAV-14. Wind 150°/05kt. Report airborne.,31.18786,121.53063,16.0,False
+2022-10-28 11:04:30.000000000,Control,I2,"UAS-11 cleared for takeoff, wind 160°/10kt, report when airborne.",31.1754,121.6318,13.0,False
+2022-10-28 11:05:00.000000000,UAV-14,,UAV-14 off ground.,31.18786,121.53063,,False
+2022-10-28 11:05:00.000000000,Control,I7,"Team, UAV-89 reported in Blue Zone, altitude 50m.",31.2443,121.435582,,False
+2022-10-28 11:05:00.000000000,UAS-11,,Aircraft airborne.,31.1754,121.6318,,False
+2022-10-28 11:05:00.000000000,UAS-26,I1,"Control, UAS-26 requesting takeoff clearance, Blue Zone, altitude 60m.",31.24033,121.43553,30.0,False
+2022-10-28 11:05:00.000000000,RPA-73,I1,"RPA-73 awaiting takeoff authorization, Green Zone, 50m.",31.25097,121.40002,86.0,False
+2022-10-28 11:05:15.000000000,Control,,🫡,31.1754,121.6318,,False
+2022-10-28 11:05:15.000000000,Control,,"Copy, report on return.",31.18786,121.53063,,False
+2022-10-28 11:05:30.000000000,Control,I2,"UAS-26 cleared for takeoff, wind 150°/05kt, report when airborne.",31.24033,121.43553,30.0,False
+2022-10-28 11:05:30.000000000,Control,I2,"RPA-73, departure authorized, Green Zone, 50m. Wind 306°/18kt. Report airborne.",31.25097,121.40002,86.0,False
+2022-10-28 11:06:00.000000000,RPA-108,I4,RPA-108 inbound for landing.,31.17538,121.52461,,False
+2022-10-28 11:06:00.000000000,UAS-26,,Airborne.,31.24033,121.43553,,False
+2022-10-28 11:06:00.000000000,Control,I7,Advising UAS-86 operating in Red Zone at 60m.,31.2444,121.542028,,False
+2022-10-28 11:06:00.000000000,Control,I7,"Advising UAS-86 in Red Zone, same altitude.",31.243305,121.542102,,False
+2022-10-28 11:06:00.000000000,RPA-73,,Off the ground.,31.25097,121.40002,,False
+2022-10-28 11:06:00.000000000,Control,I7,"Advising DRONE-87 in Blue Zone, same altitude.",31.243482,121.438632,,False
+2022-10-28 11:06:00.000000000,Control,I7,"Team, UAV-94 reported in Red Zone, altitude 20m.",31.239928,121.54467,,False
+2022-10-28 11:06:15.000000000,Control,,🫡,31.25097,121.40002,,False
+2022-10-28 11:06:30.000000000,Control,I5,"Control copies, RPA-108. Report on ground.",31.17538,121.52461,,False
+2022-10-28 11:07:00.000000000,RPA-108,I6,"RPA-108 on ground, mission complete.",31.17538,121.52461,,False
+2022-10-28 11:07:00.000000000,UAS-96,I4,UAS-96 preparing to land.,31.20094,121.52981,,False
+2022-10-28 11:07:30.000000000,Control,I5,"Copy. UAS-96, report on ground.",31.20094,121.52981,,False
+2022-10-28 11:08:00.000000000,RPA-88,I4,RPA-88 returning for landing.,31.23591,121.41539,,False
+2022-10-28 11:08:00.000000000,AERIAL-105,I8,"AERIAL-105 — battery swap, standby.",31.24541,121.54092,,False
+2022-10-28 11:08:00.000000000,UAS-96,I6,UAS-96 on ground.,31.20094,121.52981,,False
+2022-10-28 11:08:15.000000000,Control,,Copy 👍,31.20094,121.52981,,False
+2022-10-28 11:08:30.000000000,Control,I5,"Control copies, RPA-88. Report on ground.",31.23591,121.41539,,False
+2022-10-28 11:09:00.000000000,DRONE-52,I1,DRONE-52 awaiting takeoff authorization.,31.18891,121.56019,60.0,False
+2022-10-28 11:09:00.000000000,RPA-88,I6,"RPA-88, landed.",31.23591,121.41539,,False
+2022-10-28 11:09:07.567453994,UAV-104,I3,"UAV-104 position: Orange Zone, altitude 60m.",31.176632,121.637266,,False
+2022-10-28 11:09:08.000000000,DRONE-52,I1,"Zone: White Zone, 60m.",31.18891,121.56019,60.0,True
+2022-10-28 11:09:15.000000000,Control,,Acknowledged.,31.23591,121.41539,,False
+2022-10-28 11:09:30.000000000,Control,I2,"DRONE-52, departure authorized, White Zone, 60m. Wind 306°/18kt. Report airborne.",31.18891,121.56019,60.0,False
+2022-10-28 11:10:00.000000000,UAS-36,I1,"Control, UAS-36 requesting takeoff clearance, Green Zone, altitude 30m.",31.25091,121.4001,41.0,False
+2022-10-28 11:10:00.000000000,AERIAL-110,I1,"Control, AERIAL-110 here.",31.2404,121.43566,127.0,False
+2022-10-28 11:10:00.000000000,DRONE-52,,Aircraft airborne.,31.18891,121.56019,,False
+2022-10-28 11:10:08.000000000,AERIAL-110,I1,"Requesting takeoff, Blue Zone, 60m.",31.2404,121.43566,127.0,True
+2022-10-28 11:10:15.000000000,Control,,"Copy, report on return.",31.18891,121.56019,,False
+2022-10-28 11:10:30.000000000,Control,I2,"UAS-36, departure authorized. Wind 150°/05kt.",31.25091,121.4001,41.0,False
+2022-10-28 11:10:30.000000000,Control,I2,"AERIAL-110, departure authorized. Wind 277°/13kt.",31.2404,121.43566,127.0,False
+2022-10-28 11:10:47.000000000,Control,I2,Report airborne.,31.25091,121.4001,41.0,True
+2022-10-28 11:10:47.000000000,Control,I2,Report airborne.,31.2404,121.43566,127.0,True
+2022-10-28 11:11:00.000000000,Control,I7,"Heads up — AERIAL-110 flying in Blue Zone, same level.",31.240608,121.442485,,False
+2022-10-28 11:11:00.000000000,Control,I7,AERIAL-65 operating in same area at 40m.,31.186955,121.53748,,False
+2022-10-28 11:11:00.000000000,Control,I7,"Advising RPA-93 in Green Zone, same altitude.",31.250895,121.401958,,False
+2022-10-28 11:11:00.000000000,UAS-36,,UAS-36 off ground.,31.25091,121.4001,,False
+2022-10-28 11:11:00.000000000,Control,I7,"Advising DRONE-77 in Blue Zone, same altitude.",31.242285,121.438468,,False
+2022-10-28 11:11:00.000000000,Control,I7,UAV-64 operating in same area at 50m.,31.242863,121.438788,,False
+2022-10-28 11:11:00.000000000,AERIAL-110,,Off the ground.,31.2404,121.43566,,False
+2022-10-28 11:11:15.000000000,Control,,"Copy, report on return.",31.25091,121.4001,,False
+2022-10-28 11:11:23.794325023,Control,outros,Operations update — maintain separation.,31.240377,121.441037,,False
+2022-10-28 11:11:25.441392899,Control,outros,All clear in this sector.,31.176752,121.637835,,False
+2022-10-28 11:12:00.000000000,AERIAL-110,I4,AERIAL-110 preparing to land.,31.24035,121.44721,,False
+2022-10-28 11:12:00.000000000,Control,I7,Advising UAV-64 operating in Blue Zone at 50m.,31.244808,121.436945,,False
+2022-10-28 11:12:22.000000000,Control,outros,Weather holding. Proceed normally.,31.18771,121.53079,,False
+2022-10-28 11:12:30.000000000,Control,I5,"Copy AERIAL-110, report when on ground.",31.24035,121.44721,,False
+2022-10-28 11:13:00.000000000,AERIAL-110,I6,"AERIAL-110, landed.",31.24035,121.44721,,False
+2022-10-28 11:13:00.000000000,RPA-83,I1,"Control, RPA-83 requesting takeoff. Yellow Zone, 20m.",31.18771,121.53079,97.0,False
+2022-10-28 11:13:30.000000000,Control,I2,"RPA-83 cleared for takeoff, wind 277°/13kt, report when airborne.",31.18771,121.53079,97.0,False
+2022-10-28 11:14:00.000000000,Control,I7,Advising AERIAL-85 operating in Yellow Zone at 40m.,31.184235,121.53607,,False
+2022-10-28 11:14:00.000000000,RPA-83,,RPA-83 off ground.,31.18771,121.53079,,False
+2022-10-28 11:15:00.000000000,Control,I7,RPA-98 operating in same area at 50m.,31.185958,121.53706,,False
+2022-10-28 11:16:00.000000000,UAV-109,I1,"UAV-109 requesting departure, Blue Zone, 20 meters.",31.24033,121.43566,126.0,False
+2022-10-28 11:16:00.000000000,UAS-71,I1,"UAS-71 awaiting takeoff authorization, White Zone, 50m.",31.18897,121.56027,84.0,False
+2022-10-28 11:16:00.000000000,AERIAL-105,I1,"Control, AERIAL-105 requesting takeoff clearance, Red Zone, altitude 40m.",31.24541,121.54092,122.0,False
+2022-10-28 11:16:00.000000000,AERIAL-75,I1,"AERIAL-75 awaiting takeoff authorization, Yellow Zone, 20m.",31.18785,121.53076,88.0,False
+2022-10-28 11:16:27.330879865,DRONE-62,I3,"DRONE-62 reporting — Green Zone, 60m.",31.247992,121.403314,,False
+2022-10-28 11:16:30.000000000,Control,I2,"UAV-109, departure authorized, Blue Zone, 20m. Wind 160°/10kt. Report airborne.",31.24033,121.43566,126.0,False
+2022-10-28 11:16:30.000000000,Control,I2,"UAS-71, departure authorized, White Zone, 50m. Wind 150°/05kt. Report airborne.",31.18897,121.56027,84.0,False
+2022-10-28 11:16:30.000000000,Control,I2,"AERIAL-105, takeoff at your discretion. Wind 150°/05kt. Report airborne.",31.24541,121.54092,122.0,False
+2022-10-28 11:16:30.000000000,Control,I2,Authorized AERIAL-75. Wind 306°/18kt. Report airborne.,31.18785,121.53076,88.0,False
+2022-10-28 11:17:00.000000000,DRONE-07,I1,"Control, DRONE-07 requesting takeoff clearance, Orange Zone, altitude 30m.",31.17542,121.6318,8.0,False
+2022-10-28 11:17:00.000000000,UAV-109,,Aircraft off ground.,31.24033,121.43566,,False
+2022-10-28 11:17:00.000000000,UAS-71,,Aircraft airborne.,31.18897,121.56027,,False
+2022-10-28 11:17:00.000000000,Control,I7,"Heads up — UAV-24 flying in Red Zone, same level.",31.242427,121.544925,,False
+2022-10-28 11:17:00.000000000,AERIAL-75,,AERIAL-75 off ground.,31.18785,121.53076,,False
+2022-10-28 11:17:00.000000000,AERIAL-105,,Off the ground.,31.24541,121.54092,,False
+2022-10-28 11:17:00.000000000,UAS-81,I4,"UAS-81 on final approach, Blue Zone.",31.24142,121.44437,,False
+2022-10-28 11:17:15.000000000,Control,,Control copies.,31.24541,121.54092,,False
+2022-10-28 11:17:15.000000000,Control,,Acknowledged.,31.24033,121.43566,,False
+2022-10-28 11:17:30.000000000,Control,I2,"DRONE-07, departure authorized, Orange Zone, 30m. Wind 277°/13kt. Report airborne.",31.17542,121.6318,8.0,False
+2022-10-28 11:17:30.000000000,Control,I5,"Copy. UAS-81, report on ground.",31.24142,121.44437,,False
+2022-10-28 11:17:40.346335167,DRONE-77,I3,"DRONE-77 — Blue Zone, 60m, en route.",31.243128,121.43734,,False
+2022-10-28 11:17:50.730018171,UAV-64,I3,UAV-64 in Blue Zone at 30m.,31.24622,121.436245,,False
+2022-10-28 11:18:00.000000000,UAS-81,I6,"UAS-81 on ground, mission complete.",31.24142,121.44437,,False
+2022-10-28 11:18:00.000000000,DRONE-107,I4,DRONE-107 preparing to land.,31.25147,121.43141,,False
+2022-10-28 11:18:00.000000000,DRONE-07,,Aircraft off ground.,31.17542,121.6318,,False
+2022-10-28 11:18:15.000000000,Control,,Copy 👍,31.24142,121.44437,,False
+2022-10-28 11:18:30.000000000,Control,I5,"Control copies, DRONE-107. Report on ground.",31.25147,121.43141,,False
+2022-10-28 11:19:00.000000000,DRONE-107,I6,DRONE-107 — on the ground.,31.25147,121.43141,,False
+2022-10-28 11:19:00.000000000,DRONE-102,I1,"Control, DRONE-102 requesting takeoff. White Zone, 50m.",31.18903,121.56016,118.0,False
+2022-10-28 11:19:15.000000000,Control,,Copy 👍,31.25147,121.43141,,False
+2022-10-28 11:19:30.000000000,Control,I2,Authorized DRONE-102. Wind 306°/18kt. Report airborne.,31.18903,121.56016,118.0,False
+2022-10-28 11:20:00.000000000,DRONE-102,,DRONE-102 off ground.,31.18903,121.56016,,False
+2022-10-28 11:20:00.000000000,AERIAL-110,I8,Battery change — AERIAL-110 back in the air soon.,31.24035,121.44721,,False
+2022-10-28 11:20:15.000000000,Control,,"Copy, report on return.",31.18903,121.56016,,False
+2022-10-28 11:20:15.000000000,Control,,Acknowledged.,31.24035,121.44721,,False
+2022-10-28 11:21:00.000000000,Control,I7,Advising UAV-94 operating in Red Zone at 40m.,31.24385,121.543862,,False
+2022-10-28 11:21:00.000000000,AERIAL-40,I1,"Control, AERIAL-40 requesting takeoff. White Zone, 40m.",31.18892,121.56029,46.0,False
+2022-10-28 11:21:30.000000000,Control,I2,"AERIAL-40, departure authorized. Wind 160°/10kt.",31.18892,121.56029,46.0,False
+2022-10-28 11:21:47.000000000,Control,I2,Report airborne.,31.18892,121.56029,46.0,True
+2022-10-28 11:22:00.000000000,Control,I7,"Advising UAV-24 in Red Zone, same altitude.",31.239175,121.54837,,False
+2022-10-28 11:22:00.000000000,AERIAL-40,,Off the ground.,31.18892,121.56029,,False
+2022-10-28 11:22:03.727549952,DRONE-22,I3,DRONE-22 in Yellow Zone at 50m.,31.184888,121.528292,,False
+2022-10-28 11:22:15.000000000,Control,,Copy 👍,31.18892,121.56029,,False
+2022-10-28 11:23:00.000000000,Control,I7,"Heads up — AERIAL-70 flying in Yellow Zone, same level.",31.192195,121.53124,,False
+2022-10-28 11:24:00.000000000,UAV-89,I1,"Control, UAV-89 requesting takeoff. Blue Zone, 20m.",31.2404,121.43555,104.0,False
+2022-10-28 11:24:00.000000000,AERIAL-95,I4,"AERIAL-95 on final approach, Green Zone.",31.25021,121.41317,,False
+2022-10-28 11:24:18.936334681,DRONE-82,I3,"DRONE-82 reporting — Blue Zone, 30m.",31.2497,121.441404,,False
+2022-10-28 11:24:30.000000000,Control,I2,Authorized UAV-89. Wind 233°/18kt. Report airborne.,31.2404,121.43555,104.0,False
+2022-10-28 11:24:30.000000000,Control,I5,"Copy. AERIAL-95, report on ground.",31.25021,121.41317,,False
+2022-10-28 11:24:53.672420254,DRONE-62,I3,DRONE-62 in Green Zone at 60m.,31.247032,121.404355,,False
+2022-10-28 11:25:00.000000000,AERIAL-95,I6,AERIAL-95 — on the ground.,31.25021,121.41317,,False
+2022-10-28 11:25:00.000000000,UAV-89,,Aircraft off ground.,31.2404,121.43555,,False
+2022-10-28 11:25:15.000000000,Control,,"Copy, report on return.",31.2404,121.43555,,False
+2022-10-28 11:25:15.000000000,Control,,Acknowledged.,31.25021,121.41317,,False
+2022-10-28 11:26:00.000000000,UAS-66,I1,"UAS-66 requesting departure, White Zone, 60 meters.",31.18904,121.56012,78.0,False
+2022-10-28 11:26:00.000000000,DRONE-67,I1,"Control, DRONE-67 requesting takeoff. White Zone, 30m.",31.18896,121.56013,79.0,False
+2022-10-28 11:26:00.000000000,RPA-103,I4,"RPA-103 on final approach, Blue Zone.",31.24598,121.43888,,False
+2022-10-28 11:26:00.000000000,AERIAL-110,I1,"Control, AERIAL-110 requesting takeoff clearance, Blue Zone, altitude 30m.",31.24035,121.44721,128.0,False
+2022-10-28 11:26:30.000000000,Control,I2,"UAS-66, departure authorized, White Zone, 60m. Wind 160°/10kt. Report airborne.",31.18904,121.56012,78.0,False
+2022-10-28 11:26:30.000000000,Control,I2,"AERIAL-110 cleared for takeoff, wind 306°/18kt, report when airborne.",31.24035,121.44721,128.0,False
+2022-10-28 11:26:30.000000000,Control,I2,"DRONE-67, takeoff at your discretion. Wind 233°/18kt. Report airborne.",31.18896,121.56013,79.0,False
+2022-10-28 11:26:30.000000000,Control,I5,"Copy RPA-103, report when on ground.",31.24598,121.43888,,False
+2022-10-28 11:27:00.000000000,Control,I7,UAS-61 operating in same area at 30m.,31.193815,121.533853,,False
+2022-10-28 11:27:00.000000000,UAS-16,I1,"UAS-16 requesting departure, Yellow Zone, 50 meters.",31.18774,121.53068,19.0,False
+2022-10-28 11:27:00.000000000,Control,I7,"Team, UAV-14 reported in Yellow Zone, altitude 30m.",31.186125,121.53196,,False
+2022-10-28 11:27:00.000000000,UAS-66,,Aircraft airborne.,31.18904,121.56012,,False
+2022-10-28 11:27:00.000000000,RPA-103,I6,"RPA-103, landed.",31.24598,121.43888,,False
+2022-10-28 11:27:00.000000000,AERIAL-105,I4,AERIAL-105 inbound for landing.,31.24289,121.54615,,False
+2022-10-28 11:27:00.000000000,AERIAL-110,,AERIAL-110 airborne.,31.24035,121.44721,,False
+2022-10-28 11:27:00.000000000,DRONE-67,,Aircraft airborne.,31.18896,121.56013,,False
+2022-10-28 11:27:00.000000000,RPA-98,I1,"Control, RPA-98 requesting takeoff clearance, Yellow Zone, altitude 60m.",31.18777,121.53074,114.0,False
+2022-10-28 11:27:00.000000000,Control,I7,"Team, UAS-46 reported in Red Zone, altitude 30m.",31.241022,121.544595,,False
+2022-10-28 11:27:15.000000000,Control,,"Copy, report on return.",31.18904,121.56012,,False
+2022-10-28 11:27:30.000000000,Control,I2,"UAS-16 cleared for takeoff, wind 233°/18kt, report when airborne.",31.18774,121.53068,19.0,False
+2022-10-28 11:27:30.000000000,Control,I5,"Acknowledged AERIAL-105, report on ground.",31.24289,121.54615,,False
+2022-10-28 11:27:30.000000000,Control,I2,"RPA-98 cleared for takeoff, wind 277°/13kt, report when airborne.",31.18777,121.53074,114.0,False
+2022-10-28 11:28:00.000000000,AERIAL-105,I6,AERIAL-105 on ground.,31.24289,121.54615,,False
+2022-10-28 11:28:00.000000000,RPA-18,I1,"RPA-18 awaiting takeoff authorization, Green Zone, 60m.",31.251,121.4001,22.0,False
+2022-10-28 11:28:00.000000000,RPA-98,,RPA-98 airborne.,31.18777,121.53074,,False
+2022-10-28 11:28:00.000000000,UAS-16,,Aircraft airborne.,31.18774,121.53068,,False
+2022-10-28 11:28:15.000000000,Control,,Acknowledged.,31.18774,121.53068,,False
+2022-10-28 11:28:30.000000000,Control,I2,"RPA-18, takeoff at your discretion. Wind 277°/13kt. Report airborne.",31.251,121.4001,22.0,False
+2022-10-28 11:29:00.000000000,DRONE-92,I1,"DRONE-92 requesting departure, Red Zone, 60 meters.",31.24285,121.54618,108.0,False
+2022-10-28 11:29:00.000000000,RPA-18,,RPA-18 off ground.,31.251,121.4001,,False
+2022-10-28 11:29:15.000000000,Control,,Acknowledged.,31.251,121.4001,,False
+2022-10-28 11:29:30.000000000,Control,I2,"DRONE-92, departure authorized, Red Zone, 60m. Wind 277°/13kt. Report airborne.",31.24285,121.54618,108.0,False
+2022-10-28 11:30:00.000000000,DRONE-92,,Off the ground.,31.24285,121.54618,,False
+2022-10-28 11:30:00.000000000,UAV-104,I4,UAV-104 inbound for landing.,31.17778,121.64268,,False
+2022-10-28 11:30:15.000000000,Control,,Acknowledged.,31.24285,121.54618,,False
+2022-10-28 11:30:30.000000000,Control,I5,"Copy. UAV-104, report on ground.",31.17778,121.64268,,False
+2022-10-28 11:31:00.000000000,Control,I7,"Team, RPA-13 reported in White Zone, altitude 50m.",31.193167,121.556743,,False
+2022-10-28 11:31:00.000000000,UAS-61,I4,UAS-61 returning for landing.,31.19441,121.53564,,False
+2022-10-28 11:31:00.000000000,UAV-94,I4,UAV-94 inbound for landing.,31.2402,121.53128,,False
+2022-10-28 11:31:00.000000000,UAV-104,I6,UAV-104 on ground.,31.17778,121.64268,,False
+2022-10-28 11:31:15.000000000,Control,,Noted.,31.17778,121.64268,,False
+2022-10-28 11:31:30.000000000,Control,I5,"Control copies, UAS-61. Report on ground.",31.19441,121.53564,,False
+2022-10-28 11:31:30.000000000,Control,I5,"Acknowledged UAV-94, report on ground.",31.2402,121.53128,,False
+2022-10-28 11:32:00.000000000,UAS-56,I1,UAS-56 requesting departure.,31.189,121.56013,65.0,False
+2022-10-28 11:32:00.000000000,UAS-86,I1,"UAS-86 requesting departure, Red Zone, 50 meters.",31.24284,121.54607,100.0,False
+2022-10-28 11:32:00.000000000,UAV-94,I6,UAV-94 — on the ground.,31.2402,121.53128,,False
+2022-10-28 11:32:00.000000000,AERIAL-35,I1,"Control, AERIAL-35 requesting takeoff. Blue Zone, 30m.",31.24043,121.43558,39.0,False
+2022-10-28 11:32:00.000000000,UAS-61,I6,"UAS-61, landed.",31.19441,121.53564,,False
+2022-10-28 11:32:08.000000000,UAS-56,I1,"White Zone, 40m.",31.189,121.56013,65.0,True
+2022-10-28 11:32:15.000000000,Control,,Copy.,31.2402,121.53128,,False
+2022-10-28 11:32:30.000000000,Control,I2,"UAS-56, departure authorized, White Zone, 40m. Wind 277°/13kt. Report airborne.",31.189,121.56013,65.0,False
+2022-10-28 11:32:30.000000000,Control,I2,"AERIAL-35, takeoff at your discretion. Wind 306°/18kt. Report airborne.",31.24043,121.43558,39.0,False
+2022-10-28 11:32:30.000000000,Control,I2,Authorized UAS-86. Wind 160°/10kt. Report airborne.,31.24284,121.54607,100.0,False
+2022-10-28 11:33:00.000000000,DRONE-72,I1,DRONE-72 awaiting takeoff authorization.,31.18904,121.56015,85.0,False
+2022-10-28 11:33:00.000000000,Control,I7,"Team, AERIAL-20 reported in Green Zone, altitude 50m.",31.249997,121.40347,,False
+2022-10-28 11:33:00.000000000,UAS-56,,Airborne.,31.189,121.56013,,False
+2022-10-28 11:33:00.000000000,Control,I7,AERIAL-70 operating in same area at 60m.,31.192235,121.532555,,False
+2022-10-28 11:33:00.000000000,UAS-86,,Off the ground.,31.24284,121.54607,,False
+2022-10-28 11:33:00.000000000,AERIAL-35,,AERIAL-35 off ground.,31.24043,121.43558,,False
+2022-10-28 11:33:08.000000000,DRONE-72,I1,"Zone: White Zone, 60m.",31.18904,121.56015,85.0,True
+2022-10-28 11:33:15.000000000,Control,,Acknowledged.,31.24284,121.54607,,False
+2022-10-28 11:33:15.000000000,Control,,Control copies.,31.24043,121.43558,,False
+2022-10-28 11:33:30.000000000,Control,I2,Authorized DRONE-72. Wind 306°/18kt. Report airborne.,31.18904,121.56015,85.0,False
+2022-10-28 11:34:00.000000000,DRONE-72,,Off the ground.,31.18904,121.56015,,False
+2022-10-28 11:34:00.000000000,Control,I7,Advising UAV-44 operating in Yellow Zone at 50m.,31.187983,121.533625,,False
+2022-10-28 11:35:03.932312255,DRONE-87,I3,"DRONE-87 position: Blue Zone, altitude 30m.",31.248837,121.438034,,False
+2022-10-28 11:36:00.000000000,AERIAL-05,I1,"AERIAL-05 requesting departure, Yellow Zone, 20 meters.",31.18777,121.53078,6.0,False
+2022-10-28 11:36:30.000000000,Control,I2,"AERIAL-05, takeoff at your discretion. Wind 233°/18kt. Report airborne.",31.18777,121.53078,6.0,False
+2022-10-28 11:37:00.000000000,RPA-58,I1,"RPA-58 requesting departure, Yellow Zone, 50 meters.",31.18782,121.53079,68.0,False
+2022-10-28 11:37:00.000000000,AERIAL-05,,Off the ground.,31.18777,121.53078,,False
+2022-10-28 11:37:15.000000000,Control,,🫡,31.18777,121.53078,,False
+2022-10-28 11:37:30.000000000,Control,I2,Authorized RPA-58. Wind 277°/13kt. Report airborne.,31.18782,121.53079,68.0,False
+2022-10-28 11:38:00.000000000,RPA-58,,Aircraft off ground.,31.18782,121.53079,,False
+2022-10-28 11:38:15.000000000,Control,,Control copies.,31.18782,121.53079,,False
+2022-10-28 11:39:00.000000000,UAV-109,I4,UAV-109 preparing to land.,31.24567,121.43585,,False
+2022-10-28 11:39:30.000000000,Control,I5,"Copy UAV-109, report when on ground.",31.24567,121.43585,,False
+2022-10-28 11:39:43.000000000,Control,outros,Frequency check — all units respond.,31.25104,121.40013,,False
+2022-10-28 11:40:00.000000000,Control,I7,"Advising DRONE-42 in Green Zone, same altitude.",31.250508,121.405867,,False
+2022-10-28 11:40:00.000000000,UAV-109,I6,UAV-109 on ground.,31.24567,121.43585,,False
+2022-10-28 11:40:00.000000000,Control,I7,RPA-103 operating in same area at 40m.,31.244802,121.43846,,False
+2022-10-28 11:40:00.000000000,Control,I7,"Advising DRONE-42 in Green Zone, same altitude.",31.249785,121.402885,,False
+2022-10-28 11:40:00.000000000,DRONE-57,I1,"Control, DRONE-57 requesting takeoff clearance, Yellow Zone, altitude 40m.",31.18789,121.53068,66.0,False
+2022-10-28 11:40:00.000000000,UAV-59,I1,"Control, UAV-59 here.",31.18908,121.56018,69.0,False
+2022-10-28 11:40:08.000000000,UAV-59,I1,"Requesting takeoff, White Zone, 40m.",31.18908,121.56018,69.0,True
+2022-10-28 11:40:15.000000000,Control,,Copy.,31.24567,121.43585,,False
+2022-10-28 11:40:22.043750186,UAV-74,I3,"UAV-74 reporting — Green Zone, 20m.",31.247695,121.403926,,False
+2022-10-28 11:40:30.000000000,Control,I2,"DRONE-57, departure authorized. Wind 150°/05kt.",31.18789,121.53068,66.0,False
+2022-10-28 11:40:30.000000000,Control,I2,"UAV-59, takeoff at your discretion. Wind 233°/18kt. Report airborne.",31.18908,121.56018,69.0,False
+2022-10-28 11:40:47.000000000,Control,I2,Report airborne.,31.18789,121.53068,66.0,True
+2022-10-28 11:41:00.000000000,DRONE-42,I1,"Control, DRONE-42 requesting takeoff. Green Zone, 50m.",31.25104,121.40013,48.0,False
+2022-10-28 11:41:00.000000000,UAV-59,,UAV-59 airborne.,31.18908,121.56018,,False
+2022-10-28 11:41:00.000000000,UAS-31,I1,"Control, UAS-31 requesting takeoff. Orange Zone, 30m.",31.17539,121.63187,35.0,False
+2022-10-28 11:41:00.000000000,DRONE-57,,Off the ground.,31.18789,121.53068,,False
+2022-10-28 11:41:00.000000000,Control,I7,"Advising RPA-103 in Blue Zone, same altitude.",31.244495,121.437315,,False
+2022-10-28 11:41:15.000000000,Control,,Control copies.,31.18789,121.53068,,False
+2022-10-28 11:41:30.000000000,Control,I2,"DRONE-42 cleared for takeoff, wind 160°/10kt, report when airborne.",31.25104,121.40013,48.0,False
+2022-10-28 11:41:30.000000000,Control,I2,"UAS-31, departure authorized, Orange Zone, 30m. Wind 160°/10kt. Report airborne.",31.17539,121.63187,35.0,False
+2022-10-28 11:42:00.000000000,Control,I7,UAS-91 operating in same area at 40m.,31.18134,121.631128,,False
+2022-10-28 11:42:00.000000000,UAS-31,,UAS-31 off ground.,31.17539,121.63187,,False
+2022-10-28 11:42:00.000000000,DRONE-42,,Aircraft airborne.,31.25104,121.40013,,False
+2022-10-28 11:42:00.000000000,UAS-76,I1,"Control, UAS-76 here.",31.251,121.4001,89.0,False
+2022-10-28 11:42:00.000000000,Control,I7,"Team, UAS-31 reported in Orange Zone, altitude 40m.",31.183365,121.618327,,False
+2022-10-28 11:42:08.000000000,UAS-76,I1,"Requesting takeoff, Green Zone, 30m.",31.251,121.4001,89.0,True
+2022-10-28 11:42:15.000000000,Control,,Copy 👍,31.17539,121.63187,,False
+2022-10-28 11:42:30.000000000,Control,I2,"UAS-76 cleared for takeoff, wind 160°/10kt, report when airborne.",31.251,121.4001,89.0,False
+2022-10-28 11:43:00.000000000,DRONE-82,I4,"DRONE-82 on final approach, Blue Zone.",31.25301,121.44348,,False
+2022-10-28 11:43:00.000000000,UAS-76,,Off the ground.,31.251,121.4001,,False
+2022-10-28 11:43:00.000000000,RPA-48,I1,"Control, RPA-48 requesting takeoff. Red Zone, 30m.",31.24295,121.54619,55.0,False
+2022-10-28 11:43:00.000000000,UAV-69,I4,UAV-69 preparing to land.,31.20377,121.54619,,False
+2022-10-28 11:43:30.000000000,Control,I2,"RPA-48, takeoff at your discretion. Wind 277°/13kt. Report airborne.",31.24295,121.54619,55.0,False
+2022-10-28 11:43:30.000000000,Control,I5,"Copy UAV-69, report when on ground.",31.20377,121.54619,,False
+2022-10-28 11:43:30.000000000,Control,I5,"Acknowledged DRONE-82, report on ground.",31.25301,121.44348,,False
+2022-10-28 11:44:00.000000000,AERIAL-70,I4,AERIAL-70 inbound for landing.,31.20526,121.53848,,False
+2022-10-28 11:44:00.000000000,RPA-48,,Aircraft off ground.,31.24295,121.54619,,False
+2022-10-28 11:44:00.000000000,UAV-69,I6,UAV-69 on ground.,31.20377,121.54619,,False
+2022-10-28 11:44:00.000000000,DRONE-82,I6,"DRONE-82, landed.",31.25301,121.44348,,False
+2022-10-28 11:44:15.000000000,Control,,Control copies.,31.24295,121.54619,,False
+2022-10-28 11:44:15.000000000,Control,,Noted.,31.25301,121.44348,,False
+2022-10-28 11:44:15.000000000,Control,,🫡,31.20377,121.54619,,False
+2022-10-28 11:44:30.000000000,Control,I5,"Copy. AERIAL-70, report on ground.",31.20526,121.53848,,False
+2022-10-28 11:44:53.447147129,Control,outros,Operations update — maintain separation.,31.201265,121.55923,,False
+2022-10-28 11:45:00.000000000,Control,I7,RPA-13 operating in same area at 30m.,31.194855,121.55603,,False
+2022-10-28 11:45:00.000000000,AERIAL-70,I6,AERIAL-70 — on the ground.,31.20526,121.53848,,False
+2022-10-28 11:45:00.000000000,AERIAL-80,I4,AERIAL-80 inbound for landing.,31.18554,121.60937,,False
+2022-10-28 11:45:15.000000000,Control,,Acknowledged.,31.20526,121.53848,,False
+2022-10-28 11:45:30.000000000,Control,I5,"Acknowledged AERIAL-80, report on ground.",31.18554,121.60937,,False
+2022-10-28 11:46:00.000000000,AERIAL-80,I6,AERIAL-80 — on the ground.,31.18554,121.60937,,False
+2022-10-28 11:46:02.359185063,RPA-83,I3,RPA-83 in Yellow Zone at 20m.,31.190898,121.538385,,False
+2022-10-28 11:46:15.000000000,Control,,Copy.,31.18554,121.60937,,False
+2022-10-28 11:46:49.388933247,DRONE-32,I3,DRONE-32 in Orange Zone at 40m.,31.181644,121.628137,,False
+2022-10-28 11:46:49.565086934,Control,outros,All clear in this sector.,31.177114,121.62877,,False
+2022-10-28 11:47:00.000000000,UAS-101,I1,UAS-101 awaiting takeoff authorization.,31.1878,121.53068,117.0,False
+2022-10-28 11:47:04.646437730,DRONE-52,I3,DRONE-52 overflying White Zone — 60 meters.,31.198514,121.551965,,False
+2022-10-28 11:47:08.000000000,UAS-101,I1,"Zone: Yellow Zone, 30m.",31.1878,121.53068,117.0,True
+2022-10-28 11:47:30.000000000,Control,I2,"UAS-101 cleared for takeoff, wind 233°/18kt, report when airborne.",31.1878,121.53068,117.0,False
+2022-10-28 11:48:00.000000000,RPA-93,I4,RPA-93 preparing to land.,31.25862,121.40258,,False
+2022-10-28 11:48:00.000000000,Control,I7,"Heads up — DRONE-87 flying in Blue Zone, same level.",31.244912,121.437467,,False
+2022-10-28 11:48:00.000000000,UAS-101,,Aircraft airborne.,31.1878,121.53068,,False
+2022-10-28 11:48:00.000000000,AERIAL-110,I4,AERIAL-110 preparing to land.,31.2404,121.43566,,False
+2022-10-28 11:48:00.000000000,Control,I7,"Advising DRONE-42 in Green Zone, same altitude.",31.253053,121.40404,,False
+2022-10-28 11:48:30.000000000,Control,I5,"Copy. RPA-93, report on ground.",31.25862,121.40258,,False
+2022-10-28 11:48:30.000000000,Control,I5,"Copy AERIAL-110, report when on ground.",31.2404,121.43566,,False
+2022-10-28 11:49:00.000000000,AERIAL-110,I6,"AERIAL-110 on ground, mission complete.",31.2404,121.43566,,False
+2022-10-28 11:49:00.000000000,RPA-93,I6,"RPA-93 on ground, mission complete.",31.25862,121.40258,,False
+2022-10-28 11:49:15.000000000,Control,,Copy.,31.2404,121.43566,,False
+2022-10-28 11:50:12.095663470,Control,outros,Weather holding. Proceed normally.,31.192887,121.533161,,False
+2022-10-28 11:51:00.000000000,UAV-84,I4,UAV-84 inbound for landing.,31.1941,121.55262,,False
+2022-10-28 11:51:00.000000000,UAS-06,I1,"UAS-06 awaiting takeoff authorization, Red Zone, 40m.",31.24299,121.54618,7.0,False
+2022-10-28 11:51:00.000000000,UAS-51,I4,"UAS-51 on final approach, Red Zone.",31.24236,121.53506,,False
+2022-10-28 11:51:00.000000000,RPA-08,I1,"RPA-08 requesting departure, Orange Zone, 20 meters.",31.17545,121.63179,9.0,False
+2022-10-28 11:51:30.000000000,Control,I5,"Copy UAV-84, report when on ground.",31.1941,121.55262,,False
+2022-10-28 11:51:30.000000000,Control,I2,"UAS-06, departure authorized. Wind 160°/10kt.",31.24299,121.54618,7.0,False
+2022-10-28 11:51:30.000000000,Control,I5,"Control copies, UAS-51. Report on ground.",31.24236,121.53506,,False
+2022-10-28 11:51:30.000000000,Control,I2,"RPA-08 cleared for takeoff, wind 233°/18kt, report when airborne.",31.17545,121.63179,9.0,False
+2022-10-28 11:51:47.000000000,Control,I2,Report airborne.,31.24299,121.54618,7.0,True
+2022-10-28 11:52:00.000000000,DRONE-87,I4,DRONE-87 returning for landing.,31.25181,121.4389,,False
+2022-10-28 11:52:00.000000000,UAS-06,,Aircraft off ground.,31.24299,121.54618,,False
+2022-10-28 11:52:00.000000000,UAS-51,I6,"UAS-51, landed.",31.24236,121.53506,,False
+2022-10-28 11:52:00.000000000,RPA-08,,RPA-08 off ground.,31.17545,121.63179,,False
+2022-10-28 11:52:00.000000000,UAV-84,I6,UAV-84 — on the ground.,31.1941,121.55262,,False
+2022-10-28 11:52:15.000000000,Control,,"Copy, report on return.",31.17545,121.63179,,False
+2022-10-28 11:52:15.000000000,Control,,"Copy, thanks.",31.1941,121.55262,,False
+2022-10-28 11:52:15.000000000,Control,,Acknowledged.,31.24236,121.53506,,False
+2022-10-28 11:52:30.000000000,Control,I5,"Acknowledged DRONE-87, report on ground.",31.25181,121.4389,,False
+2022-10-28 11:53:00.000000000,Control,I7,Advising UAS-01 operating in Orange Zone at 20m.,31.186695,121.617672,,False
+2022-10-28 11:53:00.000000000,DRONE-47,I1,"DRONE-47 awaiting takeoff authorization, Green Zone, 20m.",31.25106,121.40001,53.0,False
+2022-10-28 11:53:00.000000000,AERIAL-90,I1,AERIAL-90 awaiting takeoff authorization.,31.24285,121.54609,105.0,False
+2022-10-28 11:53:00.000000000,Control,I7,"Heads up — RPA-13 flying in White Zone, same level.",31.18998,121.560525,,False
+2022-10-28 11:53:00.000000000,UAV-54,I1,"Control, UAV-54 requesting takeoff. White Zone, 60m.",31.18893,121.56019,62.0,False
+2022-10-28 11:53:00.000000000,UAV-64,I4,UAV-64 inbound for landing.,31.25023,121.43673,,False
+2022-10-28 11:53:00.000000000,DRONE-87,I6,DRONE-87 on ground.,31.25181,121.4389,,False
+2022-10-28 11:53:08.000000000,AERIAL-90,I1,"Zone: Red Zone, 50m.",31.24285,121.54609,105.0,True
+2022-10-28 11:53:15.000000000,Control,,"Copy, thanks.",31.25181,121.4389,,False
+2022-10-28 11:53:30.000000000,Control,I5,"Acknowledged UAV-64, report on ground.",31.25023,121.43673,,False
+2022-10-28 11:53:30.000000000,Control,I2,"UAV-54, takeoff at your discretion. Wind 233°/18kt. Report airborne.",31.18893,121.56019,62.0,False
+2022-10-28 11:53:30.000000000,Control,I2,"AERIAL-90, departure authorized. Wind 306°/18kt.",31.24285,121.54609,105.0,False
+2022-10-28 11:53:30.000000000,Control,I2,Authorized DRONE-47. Wind 233°/18kt. Report airborne.,31.25106,121.40001,53.0,False
+2022-10-28 11:53:47.000000000,Control,I2,Report airborne.,31.24285,121.54609,105.0,True
+2022-10-28 11:54:00.000000000,AERIAL-90,,Aircraft off ground.,31.24285,121.54609,,False
+2022-10-28 11:54:00.000000000,Control,I7,Advising UAS-66 operating in White Zone at 60m.,31.195428,121.55757,,False
+2022-10-28 11:54:00.000000000,UAV-64,I6,UAV-64 — on the ground.,31.25023,121.43673,,False
+2022-10-28 11:54:00.000000000,UAV-54,,Aircraft airborne.,31.18893,121.56019,,False
+2022-10-28 11:54:00.000000000,DRONE-47,,Airborne.,31.25106,121.40001,,False
+2022-10-28 11:54:15.000000000,Control,,Copy.,31.25023,121.43673,,False
+2022-10-28 11:54:15.000000000,Control,,🫡,31.24285,121.54609,,False
+2022-10-28 11:54:15.000000000,Control,,Control copies.,31.18893,121.56019,,False
+2022-10-28 11:55:00.000000000,UAS-91,I1,"UAS-91 requesting departure, Orange Zone, 20 meters.",31.17533,121.63178,107.0,False
+2022-10-28 11:55:00.000000000,Control,I7,Advising UAV-54 operating in White Zone at 60m.,31.192647,121.554492,,False
+2022-10-28 11:55:00.000000000,Control,I7,DRONE-102 operating in same area at 50m.,31.19489,121.559153,,False
+2022-10-28 11:55:30.000000000,Control,I2,Authorized UAS-91. Wind 160°/10kt. Report airborne.,31.17533,121.63178,107.0,False
+2022-10-28 11:55:42.078757076,Control,outros,Frequency check — all units respond.,31.200689,121.550103,,False
+2022-10-28 11:56:00.000000000,UAV-44,I4,UAV-44 inbound for landing.,31.18006,121.54021,,False
+2022-10-28 11:56:00.000000000,UAS-91,,UAS-91 airborne.,31.17533,121.63178,,False
+2022-10-28 11:56:00.000000000,Control,I7,DRONE-07 operating in same area at 50m.,31.1829,121.629915,,False
+2022-10-28 11:56:12.386162712,Control,outros,Anyone available for frequency check?,31.237261,121.543508,,False
+2022-10-28 11:56:15.000000000,Control,,Acknowledged.,31.17533,121.63178,,False
+2022-10-28 11:56:30.000000000,Control,I5,"Copy UAV-44, report when on ground.",31.18006,121.54021,,False
+2022-10-28 11:57:00.000000000,UAV-99,I1,"UAV-99 awaiting takeoff authorization, Green Zone, 60m.",31.25093,121.40002,115.0,False
+2022-10-28 11:57:00.000000000,UAV-44,I6,"UAV-44, landed.",31.18006,121.54021,,False
+2022-10-28 11:57:00.000000000,DRONE-97,I1,"Control, DRONE-97 requesting takeoff clearance, Blue Zone, altitude 30m.",31.24037,121.43561,113.0,False
+2022-10-28 11:57:15.000000000,Control,,Noted.,31.18006,121.54021,,False
+2022-10-28 11:57:30.000000000,Control,I2,"UAV-99, departure authorized, Green Zone, 60m. Wind 233°/18kt. Report airborne.",31.25093,121.40002,115.0,False
+2022-10-28 11:57:30.000000000,Control,I2,Authorized DRONE-97. Wind 233°/18kt. Report airborne.,31.24037,121.43561,113.0,False
+2022-10-28 11:58:00.000000000,UAV-99,,Off the ground.,31.25093,121.40002,,False
+2022-10-28 11:58:00.000000000,Control,I7,UAV-49 operating in same area at 60m.,31.180722,121.62302,,False
+2022-10-28 11:58:00.000000000,DRONE-97,,Airborne.,31.24037,121.43561,,False
+2022-10-28 11:58:00.000000000,RPA-68,I1,"RPA-68 awaiting takeoff authorization, Red Zone, 20m.",31.24281,121.54606,81.0,False
+2022-10-28 11:58:15.000000000,Control,,🫡,31.25093,121.40002,,False
+2022-10-28 11:58:30.000000000,Control,I2,"RPA-68, departure authorized, Red Zone, 20m. Wind 150°/05kt. Report airborne.",31.24281,121.54606,81.0,False
+2022-10-28 11:59:00.000000000,RPA-68,,RPA-68 off ground.,31.24281,121.54606,,False
+2022-10-28 11:59:15.000000000,Control,,Control copies.,31.24281,121.54606,,False
+2022-10-28 11:59:59.462820317,Control,outros,Any teams operating at the moment?,31.195291,121.554232,,False
+2022-10-28 12:00:00.000000000,RPA-38,I4,RPA-38 inbound for landing.,31.18804,121.53947,,False
+2022-10-28 12:00:00.000000000,AERIAL-85,I4,AERIAL-85 inbound for landing.,31.19352,121.52851,,False
+2022-10-28 12:00:30.000000000,Control,I5,"Acknowledged RPA-38, report on ground.",31.18804,121.53947,,False
+2022-10-28 12:00:30.000000000,Control,I5,"Control copies, AERIAL-85. Report on ground.",31.19352,121.52851,,False
+2022-10-28 12:01:00.000000000,RPA-38,I6,RPA-38 — on the ground.,31.18804,121.53947,,False
+2022-10-28 12:01:00.000000000,UAV-49,I1,"UAV-49 requesting departure, Orange Zone, 60 meters.",31.17549,121.63174,56.0,False
+2022-10-28 12:01:00.000000000,AERIAL-85,I6,"AERIAL-85, landed.",31.19352,121.52851,,False
+2022-10-28 12:01:15.000000000,Control,,Noted.,31.19352,121.52851,,False
+2022-10-28 12:01:27.428761760,DRONE-92,I3,DRONE-92 overflying Red Zone — 60 meters.,31.239035,121.542684,,False
+2022-10-28 12:01:30.000000000,Control,I2,"UAV-49, takeoff at your discretion. Wind 150°/05kt. Report airborne.",31.17549,121.63174,56.0,False
+2022-10-28 12:02:00.000000000,UAV-49,,UAV-49 airborne.,31.17549,121.63174,,False
+2022-10-28 12:02:00.000000000,DRONE-77,I4,"DRONE-77 on final approach, Blue Zone.",31.24716,121.43973,,False
+2022-10-28 12:02:15.000000000,Control,,🫡,31.17549,121.63174,,False
+2022-10-28 12:02:30.000000000,Control,I5,"Control copies, DRONE-77. Report on ground.",31.24716,121.43973,,False
+2022-10-28 12:03:00.000000000,DRONE-87,I8,Battery change — DRONE-87 back in the air soon.,31.25181,121.4389,,False
+2022-10-28 12:03:00.000000000,UAV-74,I4,UAV-74 returning for landing.,31.24635,121.40551,,False
+2022-10-28 12:03:00.000000000,DRONE-77,I6,"DRONE-77 on ground, mission complete.",31.24716,121.43973,,False
+2022-10-28 12:03:15.000000000,Control,,Noted.,31.24716,121.43973,,False
+2022-10-28 12:03:30.000000000,Control,I5,"Control copies, UAV-74. Report on ground.",31.24635,121.40551,,False
+2022-10-28 12:04:00.000000000,UAV-74,I6,UAV-74 — on the ground.,31.24635,121.40551,,False
+2022-10-28 12:04:15.000000000,Control,,"Copy, thanks.",31.24635,121.40551,,False
+2022-10-28 12:04:59.478551637,UAS-66,I3,UAS-66 overflying White Zone — 60 meters.,31.191929,121.560426,,False
+2022-10-28 12:05:00.000000000,AERIAL-65,I4,AERIAL-65 preparing to land.,31.20466,121.53408,,False
+2022-10-28 12:05:12.797238499,RPA-28,I3,RPA-28 overflying Blue Zone — 30 meters.,31.249402,121.43532,,False
+2022-10-28 12:05:30.000000000,Control,I5,"Acknowledged AERIAL-65, report on ground.",31.20466,121.53408,,False
+2022-10-28 12:06:00.000000000,AERIAL-65,I6,AERIAL-65 on ground.,31.20466,121.53408,,False
+2022-10-28 12:07:00.000000000,RPA-63,I1,"Control, RPA-63 requesting takeoff clearance, Green Zone, altitude 50m.",31.25107,121.40016,74.0,False
+2022-10-28 12:07:00.000000000,RPA-23,I1,"Control, RPA-23 requesting takeoff. Green Zone, 20m.",31.25104,121.40002,27.0,False
+2022-10-28 12:07:00.000000000,DRONE-102,I4,DRONE-102 preparing to land.,31.1914,121.55795,,False
+2022-10-28 12:07:30.000000000,Control,I5,"Acknowledged DRONE-102, report on ground.",31.1914,121.55795,,False
+2022-10-28 12:07:30.000000000,Control,I2,"RPA-23, departure authorized. Wind 160°/10kt.",31.25104,121.40002,27.0,False
+2022-10-28 12:07:30.000000000,Control,I2,Authorized RPA-63. Wind 306°/18kt. Report airborne.,31.25107,121.40016,74.0,False
+2022-10-28 12:07:47.000000000,Control,I2,Report airborne.,31.25104,121.40002,27.0,True
+2022-10-28 12:08:00.000000000,RPA-63,,Airborne.,31.25107,121.40016,,False
+2022-10-28 12:08:00.000000000,DRONE-102,I6,DRONE-102 — on the ground.,31.1914,121.55795,,False
+2022-10-28 12:08:00.000000000,RPA-23,,Aircraft airborne.,31.25104,121.40002,,False
+2022-10-28 12:08:15.000000000,Control,,Acknowledged.,31.1914,121.55795,,False
+2022-10-28 12:08:15.000000000,Control,,"Copy, report on return.",31.25104,121.40002,,False
+2022-10-28 12:09:31.656518743,DRONE-92,I3,DRONE-92 in Red Zone at 60m.,31.238086,121.541815,,False
+2022-10-28 12:09:57.196938544,DRONE-52,I3,DRONE-52 in White Zone at 60m.,31.204283,121.547024,,False
+2022-10-28 12:10:00.000000000,UAS-106,I1,"Control, UAS-106 requesting takeoff. Yellow Zone, 20m.",31.18785,121.53077,123.0,False
+2022-10-28 12:10:30.000000000,Control,I2,"UAS-106, departure authorized. Wind 306°/18kt.",31.18785,121.53077,123.0,False
+2022-10-28 12:10:47.000000000,Control,I2,Report airborne.,31.18785,121.53077,123.0,True
+2022-10-28 12:11:00.000000000,DRONE-87,I1,"DRONE-87 awaiting takeoff authorization, Blue Zone, 30m.",31.25181,121.4389,102.0,False
+2022-10-28 12:11:00.000000000,UAS-106,,Aircraft off ground.,31.18785,121.53077,,False
+2022-10-28 12:11:30.000000000,Control,I2,"DRONE-87, departure authorized. Wind 233°/18kt.",31.25181,121.4389,102.0,False
+2022-10-28 12:11:47.000000000,Control,I2,Report airborne.,31.25181,121.4389,102.0,True
+2022-10-28 12:12:00.000000000,DRONE-87,,DRONE-87 airborne.,31.25181,121.4389,,False
+2022-10-28 12:12:15.000000000,Control,,Copy 👍,31.25181,121.4389,,False
+2022-10-28 12:15:00.000000000,RPA-78,I4,RPA-78 preparing to land.,31.20325,121.54977,,False
+2022-10-28 12:15:30.000000000,Control,I5,"Control copies, RPA-78. Report on ground.",31.20325,121.54977,,False
+2022-10-28 12:16:00.000000000,RPA-78,I6,RPA-78 on ground.,31.20325,121.54977,,False
+2022-10-28 12:16:15.000000000,Control,,"Copy, thanks.",31.20325,121.54977,,False
+2022-10-28 12:17:01.694355003,UAS-76,I3,"UAS-76 reporting — Green Zone, 30m.",31.25554,121.402031,,False
+2022-10-28 12:17:20.779586341,UAS-91,I3,"UAS-91 — Orange Zone, 20m, en route.",31.178145,121.632133,,False
+2022-10-28 12:18:00.000000000,DRONE-62,I4,"DRONE-62 on final approach, Green Zone.",31.24088,121.41103,,False
+2022-10-28 12:18:30.000000000,Control,I5,"Control copies, DRONE-62. Report on ground.",31.24088,121.41103,,False
+2022-10-28 12:19:00.000000000,AERIAL-45,I4,"AERIAL-45 on final approach, White Zone.",31.20007,121.55517,,False
+2022-10-28 12:19:00.000000000,DRONE-62,I6,"DRONE-62, landed.",31.24088,121.41103,,False
+2022-10-28 12:19:00.000000000,RPA-98,I4,RPA-98 inbound for landing.,31.19946,121.53627,,False
+2022-10-28 12:19:03.924975463,Control,outros,"All teams, confirm radio before departure.",31.19832,121.554988,,False
+2022-10-28 12:19:30.000000000,Control,I5,"Copy AERIAL-45, report when on ground.",31.20007,121.55517,,False
+2022-10-28 12:19:30.000000000,Control,I5,"Acknowledged RPA-98, report on ground.",31.19946,121.53627,,False
+2022-10-28 12:20:00.000000000,AERIAL-45,I6,AERIAL-45 on ground.,31.20007,121.55517,,False
+2022-10-28 12:20:00.000000000,RPA-98,I6,RPA-98 — on the ground.,31.19946,121.53627,,False
+2022-10-28 12:20:15.000000000,Control,,🫡,31.20007,121.55517,,False
+2022-10-28 12:20:15.000000000,Control,,🫡,31.19946,121.53627,,False
+2022-10-28 12:20:34.064859118,RPA-28,I3,"RPA-28 reporting — Blue Zone, 30m.",31.250987,121.43528,,False
+2022-10-28 12:22:00.000000000,UAV-79,I1,"Control, UAV-79 requesting takeoff. Green Zone, 40m.",31.25099,121.40004,92.0,False
+2022-10-28 12:22:00.127832302,UAS-76,I3,"UAS-76 reporting — Green Zone, 30m.",31.256185,121.402305,,False
+2022-10-28 12:22:05.000000000,Control,outros,All clear in this sector.,31.25096,121.40003,,False
+2022-10-28 12:22:30.000000000,Control,I2,"UAV-79, takeoff at your discretion. Wind 277°/13kt. Report airborne.",31.25099,121.40004,92.0,False
+2022-10-28 12:23:00.000000000,AERIAL-25,I1,"Control, AERIAL-25 requesting takeoff clearance, Green Zone, altitude 60m.",31.25096,121.40003,29.0,False
+2022-10-28 12:23:00.000000000,UAV-79,,UAV-79 airborne.,31.25099,121.40004,,False
+2022-10-28 12:23:15.000000000,Control,,Acknowledged.,31.25099,121.40004,,False
+2022-10-28 12:23:30.000000000,Control,I2,"AERIAL-25 cleared for takeoff, wind 150°/05kt, report when airborne.",31.25096,121.40003,29.0,False
+2022-10-28 12:23:30.537510163,UAV-59,I3,"UAV-59 reporting — White Zone, 40m.",31.189894,121.556971,,False
+2022-10-28 12:24:00.000000000,AERIAL-25,,Aircraft airborne.,31.25096,121.40003,,False
+2022-10-28 12:24:15.000000000,Control,,Acknowledged.,31.25096,121.40003,,False
+2022-10-28 12:26:00.000000000,UAV-34,I1,"Control, UAV-34 requesting takeoff clearance, Blue Zone, altitude 40m.",31.24033,121.43564,38.0,False
+2022-10-28 12:26:00.000000000,RPA-83,I4,"RPA-83 on final approach, Yellow Zone.",31.19485,121.5478,,False
+2022-10-28 12:26:00.000000000,RPA-73,I4,RPA-73 preparing to land.,31.25501,121.40976,,False
+2022-10-28 12:26:21.735104460,DRONE-87,I3,DRONE-87 overflying Blue Zone — 30 meters.,31.245301,121.437005,,False
+2022-10-28 12:26:30.000000000,Control,I2,"UAV-34, departure authorized, Blue Zone, 40m. Wind 160°/10kt. Report airborne.",31.24033,121.43564,38.0,False
+2022-10-28 12:26:30.000000000,Control,I5,"Acknowledged RPA-83, report on ground.",31.19485,121.5478,,False
+2022-10-28 12:26:30.000000000,Control,I5,"Copy RPA-73, report when on ground.",31.25501,121.40976,,False
+2022-10-28 12:27:00.000000000,RPA-83,I6,RPA-83 — on the ground.,31.19485,121.5478,,False
+2022-10-28 12:27:00.000000000,UAV-34,,Airborne.,31.24033,121.43564,,False
+2022-10-28 12:27:00.000000000,RPA-73,I6,"RPA-73 on ground, mission complete.",31.25501,121.40976,,False
+2022-10-28 12:27:00.000000000,UAS-46,I1,"UAS-46 awaiting takeoff authorization, Red Zone, 40m.",31.24293,121.54601,52.0,False
+2022-10-28 12:27:15.000000000,Control,,"Copy, report on return.",31.24033,121.43564,,False
+2022-10-28 12:27:15.000000000,Control,,"Copy, thanks.",31.25501,121.40976,,False
+2022-10-28 12:27:26.959220048,UAV-49,I3,UAV-49 overflying Orange Zone — 60 meters.,31.173947,121.624541,,False
+2022-10-28 12:27:30.000000000,Control,I2,"UAS-46 cleared for takeoff, wind 160°/10kt, report when airborne.",31.24293,121.54601,52.0,False
+2022-10-28 12:28:00.000000000,UAS-46,,Aircraft airborne.,31.24293,121.54601,,False
+2022-10-28 12:29:00.000000000,DRONE-92,I4,DRONE-92 returning for landing.,31.23568,121.53961,,False
+2022-10-28 12:29:00.000000000,AERIAL-60,I4,AERIAL-60 preparing to land.,31.23394,121.54202,,False
+2022-10-28 12:29:30.000000000,Control,I5,"Copy. AERIAL-60, report on ground.",31.23394,121.54202,,False
+2022-10-28 12:29:30.000000000,Control,I5,"Copy DRONE-92, report when on ground.",31.23568,121.53961,,False
+2022-10-28 12:29:58.199194670,DRONE-87,I3,"DRONE-87 — Blue Zone, 30m, en route.",31.243772,121.43656,,False
+2022-10-28 12:30:00.000000000,AERIAL-60,I6,AERIAL-60 — on the ground.,31.23394,121.54202,,False
+2022-10-28 12:30:00.000000000,RPA-53,I4,RPA-53 inbound for landing.,31.24737,121.44843,,False
+2022-10-28 12:30:00.000000000,UAV-89,I4,"UAV-89 on final approach, Blue Zone.",31.25085,121.43191,,False
+2022-10-28 12:30:00.000000000,DRONE-92,I6,"DRONE-92 on ground, mission complete.",31.23568,121.53961,,False
+2022-10-28 12:30:00.000000000,DRONE-37,I4,"DRONE-37 on final approach, White Zone.",31.20919,121.55854,,False
+2022-10-28 12:30:15.000000000,Control,,"Copy, thanks.",31.23394,121.54202,,False
+2022-10-28 12:30:30.000000000,Control,I5,"Acknowledged UAV-89, report on ground.",31.25085,121.43191,,False
+2022-10-28 12:30:30.000000000,Control,I5,"Control copies, DRONE-37. Report on ground.",31.20919,121.55854,,False
+2022-10-28 12:30:30.000000000,Control,I5,"Control copies, RPA-53. Report on ground.",31.24737,121.44843,,False
+2022-10-28 12:31:00.000000000,RPA-53,I6,RPA-53 on ground.,31.24737,121.44843,,False
+2022-10-28 12:31:00.000000000,UAV-89,I6,UAV-89 — on the ground.,31.25085,121.43191,,False
+2022-10-28 12:31:00.000000000,DRONE-37,I6,"DRONE-37, landed.",31.20919,121.55854,,False
+2022-10-28 12:31:15.000000000,Control,,"Copy, thanks.",31.20919,121.55854,,False
+2022-10-28 12:31:35.692177754,UAV-54,I3,"UAV-54 position: White Zone, altitude 60m.",31.192785,121.551419,,False
+2022-10-28 12:32:00.000000000,UAS-41,I1,"Control, UAS-41 requesting takeoff clearance, Green Zone, altitude 40m.",31.25091,121.40001,47.0,False
+2022-10-28 12:32:00.000000000,RPA-43,I4,RPA-43 preparing to land.,31.20585,121.55496,,False
+2022-10-28 12:32:25.509600839,UAS-106,I3,UAS-106 overflying Yellow Zone — 20 meters.,31.184606,121.529404,,False
+2022-10-28 12:32:30.000000000,Control,I2,"UAS-41, takeoff at your discretion. Wind 306°/18kt. Report airborne.",31.25091,121.40001,47.0,False
+2022-10-28 12:32:30.000000000,Control,I5,"Control copies, RPA-43. Report on ground.",31.20585,121.55496,,False
+2022-10-28 12:33:00.000000000,UAS-41,,Airborne.,31.25091,121.40001,,False
+2022-10-28 12:33:00.000000000,RPA-43,I6,"RPA-43, landed.",31.20585,121.55496,,False
+2022-10-28 12:33:15.000000000,Control,,🫡,31.25091,121.40001,,False
+2022-10-28 12:34:01.808952935,DRONE-57,I3,"DRONE-57 reporting — Yellow Zone, 40m.",31.187803,121.531668,,False
+2022-10-28 12:34:25.267925193,DRONE-72,I3,DRONE-72 overflying White Zone — 60 meters.,31.201413,121.553268,,False
+2022-10-28 12:36:00.000000000,AERIAL-75,I4,AERIAL-75 returning for landing.,31.19448,121.53343,,False
+2022-10-28 12:36:30.000000000,Control,I5,"Acknowledged AERIAL-75, report on ground.",31.19448,121.53343,,False
+2022-10-28 12:37:00.000000000,AERIAL-75,I6,"AERIAL-75, landed.",31.19448,121.53343,,False
+2022-10-28 12:37:00.000000000,DRONE-87,I4,"DRONE-87 on final approach, Blue Zone.",31.24037,121.43557,,False
+2022-10-28 12:37:00.000000000,AERIAL-55,I1,"AERIAL-55 awaiting takeoff authorization, Blue Zone, 40m.",31.24041,121.43557,64.0,False
+2022-10-28 12:37:00.000000000,DRONE-17,I1,"DRONE-17 awaiting takeoff authorization, Green Zone, 20m.",31.25098,121.40001,21.0,False
+2022-10-28 12:37:15.000000000,Control,,Acknowledged.,31.19448,121.53343,,False
+2022-10-28 12:37:30.000000000,Control,I5,"Copy. DRONE-87, report on ground.",31.24037,121.43557,,False
+2022-10-28 12:37:30.000000000,Control,I2,"DRONE-17, departure authorized, Green Zone, 20m. Wind 160°/10kt. Report airborne.",31.25098,121.40001,21.0,False
+2022-10-28 12:37:30.000000000,Control,I2,"AERIAL-55, departure authorized. Wind 277°/13kt.",31.24041,121.43557,64.0,False
+2022-10-28 12:37:47.000000000,Control,I2,Report airborne.,31.24041,121.43557,64.0,True
+2022-10-28 12:38:00.000000000,DRONE-87,I6,DRONE-87 on ground.,31.24037,121.43557,,False
+2022-10-28 12:38:00.000000000,UAS-71,I4,"UAS-71 on final approach, White Zone.",31.2099,121.55046,,False
+2022-10-28 12:38:00.000000000,UAS-101,I4,UAS-101 inbound for landing.,31.18113,121.5229,,False
+2022-10-28 12:38:00.000000000,AERIAL-55,,Aircraft airborne.,31.24041,121.43557,,False
+2022-10-28 12:38:00.000000000,DRONE-17,,Aircraft airborne.,31.25098,121.40001,,False
+2022-10-28 12:38:30.000000000,Control,I5,"Copy. UAS-101, report on ground.",31.18113,121.5229,,False
+2022-10-28 12:38:30.000000000,Control,I5,"Control copies, UAS-71. Report on ground.",31.2099,121.55046,,False
+2022-10-28 12:39:00.000000000,UAS-71,I6,UAS-71 on ground.,31.2099,121.55046,,False
+2022-10-28 12:39:00.000000000,UAS-101,I6,"UAS-101 on ground, mission complete.",31.18113,121.5229,,False
+2022-10-28 12:39:00.000000000,RPA-33,I4,"RPA-33 on final approach, Yellow Zone.",31.18302,121.54041,,False
+2022-10-28 12:39:15.000000000,Control,,🫡,31.2099,121.55046,,False
+2022-10-28 12:39:15.000000000,Control,,🫡,31.18113,121.5229,,False
+2022-10-28 12:39:30.000000000,Control,I5,"Copy. RPA-33, report on ground.",31.18302,121.54041,,False
+2022-10-28 12:40:00.000000000,RPA-33,I6,RPA-33 — on the ground.,31.18302,121.54041,,False
+2022-10-28 12:40:00.000000000,UAS-86,I4,UAS-86 returning for landing.,31.24271,121.54583,,False
+2022-10-28 12:40:15.000000000,Control,,Acknowledged.,31.18302,121.54041,,False
+2022-10-28 12:40:30.000000000,Control,I5,"Acknowledged UAS-86, report on ground.",31.24271,121.54583,,False
+2022-10-28 12:41:00.000000000,UAS-86,I6,"UAS-86 on ground, mission complete.",31.24271,121.54583,,False
+2022-10-28 12:41:00.000000000,UAV-39,I4,UAV-39 inbound for landing.,31.17872,121.62578,,False
+2022-10-28 12:41:15.000000000,Control,,🫡,31.24271,121.54583,,False
+2022-10-28 12:41:30.000000000,Control,I5,"Copy. UAV-39, report on ground.",31.17872,121.62578,,False
+2022-10-28 12:42:00.000000000,UAV-39,I6,UAV-39 on ground.,31.17872,121.62578,,False
+2022-10-28 12:42:15.000000000,Control,,Noted.,31.17872,121.62578,,False
+2022-10-28 12:42:31.111363883,UAV-59,I3,"UAV-59 — White Zone, 40m, en route.",31.19025,121.555568,,False
+2022-10-28 12:43:00.000000000,DRONE-52,I4,DRONE-52 inbound for landing.,31.21287,121.53967,,False
+2022-10-28 12:43:03.328600281,AERIAL-20,I3,"AERIAL-20 reporting — Green Zone, 30m.",31.25096,121.399964,,False
+2022-10-28 12:43:30.000000000,Control,I5,"Control copies, DRONE-52. Report on ground.",31.21287,121.53967,,False
+2022-10-28 12:44:00.000000000,DRONE-52,I6,DRONE-52 — on the ground.,31.21287,121.53967,,False
+2022-10-28 12:45:00.000000000,DRONE-32,I4,DRONE-32 preparing to land.,31.18687,121.62511,,False
+2022-10-28 12:45:30.000000000,Control,I5,"Copy DRONE-32, report when on ground.",31.18687,121.62511,,False
+2022-10-28 12:46:00.000000000,RPA-13,I1,"RPA-13 awaiting takeoff authorization, White Zone, 40m.",31.18901,121.56023,15.0,False
+2022-10-28 12:46:00.000000000,DRONE-32,I6,"DRONE-32 on ground, mission complete.",31.18687,121.62511,,False
+2022-10-28 12:46:00.000000000,DRONE-27,I4,DRONE-27 inbound for landing.,31.24747,121.55292,,False
+2022-10-28 12:46:15.000000000,Control,,Acknowledged.,31.18687,121.62511,,False
+2022-10-28 12:46:30.000000000,Control,I5,"Copy. DRONE-27, report on ground.",31.24747,121.55292,,False
+2022-10-28 12:46:30.000000000,Control,I2,"RPA-13 cleared for takeoff, wind 233°/18kt, report when airborne.",31.18901,121.56023,15.0,False
+2022-10-28 12:47:00.000000000,DRONE-27,I6,"DRONE-27, landed.",31.24747,121.55292,,False
+2022-10-28 12:47:00.000000000,RPA-13,,RPA-13 airborne.,31.18901,121.56023,,False
+2022-10-28 12:47:15.000000000,Control,,"Copy, thanks.",31.24747,121.55292,,False
+2022-10-28 12:49:00.000000000,UAV-39,I8,"UAV-39 — battery swap, standby.",31.17872,121.62578,,False
+2022-10-28 12:49:00.000000000,UAV-99,I4,UAV-99 returning for landing.,31.24906,121.39854,,False
+2022-10-28 12:49:30.000000000,Control,I5,"Acknowledged UAV-99, report on ground.",31.24906,121.39854,,False
+2022-10-28 12:50:00.000000000,UAV-99,I6,"UAV-99, landed.",31.24906,121.39854,,False
+2022-10-28 12:50:00.000000000,DRONE-97,I4,"DRONE-97 on final approach, Blue Zone.",31.25712,121.4315,,False
+2022-10-28 12:50:15.000000000,Control,,Copy 👍,31.24906,121.39854,,False
+2022-10-28 12:50:30.000000000,Control,I5,"Copy DRONE-97, report when on ground.",31.25712,121.4315,,False
+2022-10-28 12:51:00.000000000,DRONE-97,I6,"DRONE-97 on ground, mission complete.",31.25712,121.4315,,False
+2022-10-28 12:52:00.000000000,UAS-106,I4,"UAS-106 on final approach, Yellow Zone.",31.18163,121.52815,,False
+2022-10-28 12:52:10.000000000,Control,outros,Anyone available for frequency check?,31.17547,121.63177,,False
+2022-10-28 12:52:22.960117916,UAS-31,I3,"UAS-31 reporting — Orange Zone, 30m.",31.182864,121.629453,,False
+2022-10-28 12:52:30.000000000,Control,I5,"Control copies, UAS-106. Report on ground.",31.18163,121.52815,,False
+2022-10-28 12:53:00.000000000,DRONE-12,I1,DRONE-12 awaiting takeoff authorization.,31.17547,121.63177,14.0,False
+2022-10-28 12:53:00.000000000,UAS-106,I6,"UAS-106, landed.",31.18163,121.52815,,False
+2022-10-28 12:53:00.000000000,UAS-66,I4,UAS-66 preparing to land.,31.19556,121.56081,,False
+2022-10-28 12:53:00.000000000,DRONE-67,I4,DRONE-67 inbound for landing.,31.20535,121.54486,,False
+2022-10-28 12:53:08.000000000,DRONE-12,I1,"Zone: Orange Zone, 60m.",31.17547,121.63177,14.0,True
+2022-10-28 12:53:15.000000000,Control,,"Copy, thanks.",31.18163,121.52815,,False
+2022-10-28 12:53:30.000000000,Control,I5,"Acknowledged UAS-66, report on ground.",31.19556,121.56081,,False
+2022-10-28 12:53:30.000000000,Control,I5,"Control copies, DRONE-67. Report on ground.",31.20535,121.54486,,False
+2022-10-28 12:53:30.000000000,Control,I2,"DRONE-12 cleared for takeoff, wind 277°/13kt, report when airborne.",31.17547,121.63177,14.0,False
+2022-10-28 12:54:00.000000000,UAS-66,I6,UAS-66 on ground.,31.19556,121.56081,,False
+2022-10-28 12:54:00.000000000,DRONE-67,I6,"DRONE-67 on ground, mission complete.",31.20535,121.54486,,False
+2022-10-28 12:54:00.000000000,DRONE-12,,Aircraft off ground.,31.17547,121.63177,,False
+2022-10-28 12:54:15.000000000,Control,,Copy 👍,31.20535,121.54486,,False
+2022-10-28 12:55:00.000000000,AERIAL-90,I4,AERIAL-90 preparing to land.,31.23346,121.53629,,False
+2022-10-28 12:55:00.000000000,DRONE-72,I4,DRONE-72 returning for landing.,31.20576,121.55085,,False
+2022-10-28 12:55:30.000000000,Control,I5,"Acknowledged AERIAL-90, report on ground.",31.23346,121.53629,,False
+2022-10-28 12:55:30.000000000,Control,I5,"Control copies, DRONE-72. Report on ground.",31.20576,121.55085,,False
+2022-10-28 12:56:00.000000000,AERIAL-90,I6,"AERIAL-90 on ground, mission complete.",31.23346,121.53629,,False
+2022-10-28 12:56:00.000000000,DRONE-72,I6,"DRONE-72, landed.",31.20576,121.55085,,False
+2022-10-28 12:56:00.000000000,UAS-91,I4,UAS-91 inbound for landing.,31.18314,121.63276,,False
+2022-10-28 12:56:15.000000000,Control,,Acknowledged.,31.23346,121.53629,,False
+2022-10-28 12:56:30.000000000,Control,I5,"Acknowledged UAS-91, report on ground.",31.18314,121.63276,,False
+2022-10-28 12:57:00.000000000,DRONE-02,I1,"DRONE-02 requesting departure, Orange Zone, 30 meters.",31.17538,121.63177,2.0,False
+2022-10-28 12:57:00.000000000,UAS-91,I6,UAS-91 — on the ground.,31.18314,121.63276,,False
+2022-10-28 12:57:30.000000000,Control,I2,Authorized DRONE-02. Wind 233°/18kt. Report airborne.,31.17538,121.63177,2.0,False
+2022-10-28 12:58:00.000000000,AERIAL-50,I1,"Control, AERIAL-50 requesting takeoff. Green Zone, 30m.",31.25102,121.40009,58.0,False
+2022-10-28 12:58:00.000000000,DRONE-02,,Aircraft off ground.,31.17538,121.63177,,False
+2022-10-28 12:58:15.000000000,Control,,Control copies.,31.17538,121.63177,,False
+2022-10-28 12:58:30.000000000,Control,I2,"AERIAL-50, departure authorized, Green Zone, 30m. Wind 150°/05kt. Report airborne.",31.25102,121.40009,58.0,False
+2022-10-28 12:59:00.000000000,AERIAL-50,,Aircraft off ground.,31.25102,121.40009,,False
+2022-10-28 12:59:00.000000000,UAS-76,I4,UAS-76 preparing to land.,31.26111,121.4044,,False
+2022-10-28 12:59:23.785024467,DRONE-42,I3,"DRONE-42 position: Green Zone, altitude 50m.",31.252308,121.408087,,False
+2022-10-28 12:59:30.000000000,Control,I5,"Copy UAS-76, report when on ground.",31.26111,121.4044,,False
+2022-10-28 13:00:00.000000000,UAS-76,I6,"UAS-76 on ground, mission complete.",31.26111,121.4044,,False
+2022-10-28 13:01:00.000000000,UAV-39,I1,"UAV-39 requesting departure, Orange Zone, 20 meters.",31.17872,121.62578,45.0,False
+2022-10-28 13:01:30.000000000,Control,I2,"UAV-39, departure authorized, Orange Zone, 20m. Wind 233°/18kt. Report airborne.",31.17872,121.62578,45.0,False
+2022-10-28 13:02:00.000000000,UAV-39,,Off the ground.,31.17872,121.62578,,False
+2022-10-28 13:02:15.000000000,Control,,Copy 👍,31.17872,121.62578,,False
+2022-10-28 13:03:00.000000000,DRONE-67,I8,"DRONE-67 — battery swap, standby.",31.20535,121.54486,,False
+2022-10-28 13:03:15.000000000,Control,,Copy.,31.20535,121.54486,,False
+2022-10-28 13:04:00.000000000,UAS-56,I4,UAS-56 returning for landing.,31.20956,121.54395,,False
+2022-10-28 13:04:30.000000000,Control,I5,"Copy. UAS-56, report on ground.",31.20956,121.54395,,False
+2022-10-28 13:05:00.000000000,UAS-56,I6,UAS-56 — on the ground.,31.20956,121.54395,,False
+2022-10-28 13:05:00.000000000,AERIAL-90,I8,"AERIAL-90 — battery swap, standby.",31.23346,121.53629,,False
+2022-10-28 13:05:15.000000000,Control,,Acknowledged.,31.20956,121.54395,,False
+2022-10-28 13:07:00.000000000,DRONE-22,I4,DRONE-22 returning for landing.,31.18079,121.52484,,False
+2022-10-28 13:07:30.000000000,Control,I5,"Copy DRONE-22, report when on ground.",31.18079,121.52484,,False
+2022-10-28 13:08:00.000000000,DRONE-22,I6,DRONE-22 — on the ground.,31.18079,121.52484,,False
+2022-10-28 13:09:00.000000000,RPA-58,I4,RPA-58 preparing to land.,31.17345,121.51994,,False
+2022-10-28 13:09:00.000000000,UAS-36,I4,UAS-36 inbound for landing.,31.24745,121.39333,,False
+2022-10-28 13:09:00.000000000,RPA-28,I4,"RPA-28 on final approach, Blue Zone.",31.25609,121.43515,,False
+2022-10-28 13:09:30.000000000,Control,I5,"Acknowledged RPA-58, report on ground.",31.17345,121.51994,,False
+2022-10-28 13:09:30.000000000,Control,I5,"Copy. RPA-28, report on ground.",31.25609,121.43515,,False
+2022-10-28 13:09:30.000000000,Control,I5,"Acknowledged UAS-36, report on ground.",31.24745,121.39333,,False
+2022-10-28 13:10:00.000000000,UAS-36,I6,UAS-36 — on the ground.,31.24745,121.39333,,False
+2022-10-28 13:10:00.000000000,UAV-39,I4,UAV-39 inbound for landing.,31.17546,121.63185,,False
+2022-10-28 13:10:00.000000000,RPA-28,I6,"RPA-28, landed.",31.25609,121.43515,,False
+2022-10-28 13:10:00.000000000,UAV-24,I4,UAV-24 inbound for landing.,31.23438,121.5382,,False
+2022-10-28 13:10:00.000000000,RPA-58,I6,RPA-58 — on the ground.,31.17345,121.51994,,False
+2022-10-28 13:10:15.000000000,Control,,"Copy, thanks.",31.25609,121.43515,,False
+2022-10-28 13:10:15.000000000,Control,,"Copy, thanks.",31.17345,121.51994,,False
+2022-10-28 13:10:30.000000000,Control,I5,"Copy UAV-24, report when on ground.",31.23438,121.5382,,False
+2022-10-28 13:10:30.000000000,Control,I5,"Control copies, UAV-39. Report on ground.",31.17546,121.63185,,False
+2022-10-28 13:11:00.000000000,UAV-39,I6,"UAV-39, landed.",31.17546,121.63185,,False
+2022-10-28 13:11:00.000000000,AERIAL-30,I4,AERIAL-30 preparing to land.,31.24051,121.4356,,False
+2022-10-28 13:11:00.000000000,UAV-24,I6,UAV-24 — on the ground.,31.23438,121.5382,,False
+2022-10-28 13:11:00.000000000,AERIAL-90,I1,"Control, AERIAL-90 here.",31.23346,121.53629,106.0,False
+2022-10-28 13:11:00.000000000,AERIAL-40,I4,AERIAL-40 returning for landing.,31.20881,121.54858,,False
+2022-10-28 13:11:04.092892972,UAS-46,I3,"UAS-46 position: Red Zone, altitude 40m.",31.244067,121.542846,,False
+2022-10-28 13:11:07.211596695,AERIAL-15,I3,AERIAL-15 overflying Red Zone — 60 meters.,31.24249,121.546238,,False
+2022-10-28 13:11:08.000000000,AERIAL-90,I1,"Requesting takeoff, Red Zone, 50m.",31.23346,121.53629,106.0,True
+2022-10-28 13:11:15.000000000,Control,,"Copy, thanks.",31.17546,121.63185,,False
+2022-10-28 13:11:30.000000000,Control,I2,"AERIAL-90, departure authorized. Wind 233°/18kt.",31.23346,121.53629,106.0,False
+2022-10-28 13:11:30.000000000,Control,I5,"Copy AERIAL-30, report when on ground.",31.24051,121.4356,,False
+2022-10-28 13:11:30.000000000,Control,I5,"Control copies, AERIAL-40. Report on ground.",31.20881,121.54858,,False
+2022-10-28 13:11:47.000000000,Control,I2,Report airborne.,31.23346,121.53629,106.0,True
+2022-10-28 13:12:00.000000000,AERIAL-30,I6,AERIAL-30 on ground.,31.24051,121.4356,,False
+2022-10-28 13:12:00.000000000,UAV-59,I4,UAV-59 inbound for landing.,31.19082,121.55332,,False
+2022-10-28 13:12:00.000000000,DRONE-57,I4,DRONE-57 inbound for landing.,31.18774,121.53238,,False
+2022-10-28 13:12:00.000000000,AERIAL-40,I6,"AERIAL-40 on ground, mission complete.",31.20881,121.54858,,False
+2022-10-28 13:12:00.000000000,AERIAL-90,,Aircraft airborne.,31.23346,121.53629,,False
+2022-10-28 13:12:15.000000000,Control,,Acknowledged.,31.23346,121.53629,,False
+2022-10-28 13:12:15.000000000,Control,,Copy.,31.24051,121.4356,,False
+2022-10-28 13:12:30.000000000,Control,I5,"Acknowledged DRONE-57, report on ground.",31.18774,121.53238,,False
+2022-10-28 13:12:30.000000000,Control,I5,"Acknowledged UAV-59, report on ground.",31.19082,121.55332,,False
+2022-10-28 13:13:00.000000000,UAV-59,I6,"UAV-59 on ground, mission complete.",31.19082,121.55332,,False
+2022-10-28 13:13:00.000000000,DRONE-57,I6,"DRONE-57, landed.",31.18774,121.53238,,False
+2022-10-28 13:13:15.000000000,Control,,Acknowledged.,31.19082,121.55332,,False
+2022-10-28 13:14:00.000000000,UAV-29,I4,UAV-29 inbound for landing.,31.18183,121.536,,False
+2022-10-28 13:14:30.000000000,Control,I5,"Copy UAV-29, report when on ground.",31.18183,121.536,,False
+2022-10-28 13:15:00.000000000,UAV-29,I6,UAV-29 — on the ground.,31.18183,121.536,,False
+2022-10-28 13:15:15.000000000,Control,,"Copy, thanks.",31.18183,121.536,,False
+2022-10-28 13:17:00.000000000,UAV-59,I8,UAV-59 pausing for battery replacement.,31.19082,121.55332,,False
+2022-10-28 13:17:00.000000000,DRONE-67,I1,"DRONE-67 requesting departure, White Zone, 60 meters.",31.20535,121.54486,80.0,False
+2022-10-28 13:17:30.000000000,Control,I2,Authorized DRONE-67. Wind 306°/18kt. Report airborne.,31.20535,121.54486,80.0,False
+2022-10-28 13:18:00.000000000,DRONE-67,,Airborne.,31.20535,121.54486,,False
+2022-10-28 13:18:15.000000000,Control,,Copy 👍,31.20535,121.54486,,False
+2022-10-28 13:19:00.000000000,RPA-48,I4,"RPA-48 on final approach, Red Zone.",31.24511,121.55601,,False
+2022-10-28 13:19:30.000000000,Control,I5,"Copy. RPA-48, report on ground.",31.24511,121.55601,,False
+2022-10-28 13:19:34.619555688,AERIAL-25,I3,"AERIAL-25 position: Green Zone, altitude 60m.",31.248608,121.400977,,False
+2022-10-28 13:20:00.000000000,RPA-48,I6,"RPA-48 on ground, mission complete.",31.24511,121.55601,,False
+2022-10-28 13:20:15.000000000,Control,,Acknowledged.,31.24511,121.55601,,False
+2022-10-28 13:22:00.000000000,DRONE-57,I8,DRONE-57 on ground for battery swap. Returning shortly.,31.18774,121.53238,,False
+2022-10-28 13:22:15.000000000,Control,,"Copy, thanks.",31.18774,121.53238,,False
+2022-10-28 13:23:00.000000000,AERIAL-90,I4,AERIAL-90 preparing to land.,31.24285,121.54609,,False
+2022-10-28 13:23:30.000000000,Control,I5,"Acknowledged AERIAL-90, report on ground.",31.24285,121.54609,,False
+2022-10-28 13:24:00.000000000,AERIAL-90,I6,"AERIAL-90 on ground, mission complete.",31.24285,121.54609,,False
+2022-10-28 13:24:00.000000000,RPA-68,I4,"RPA-68 on final approach, Red Zone.",31.23508,121.53757,,False
+2022-10-28 13:24:30.000000000,Control,I5,"Copy RPA-68, report when on ground.",31.23508,121.53757,,False
+2022-10-28 13:25:00.000000000,RPA-68,I6,RPA-68 on ground.,31.23508,121.53757,,False
+2022-10-28 13:25:15.000000000,Control,,🫡,31.23508,121.53757,,False
+2022-10-28 13:26:00.000000000,DRONE-67,I4,"DRONE-67 on final approach, White Zone.",31.18896,121.56013,,False
+2022-10-28 13:26:30.000000000,Control,I5,"Control copies, DRONE-67. Report on ground.",31.18896,121.56013,,False
+2022-10-28 13:27:00.000000000,UAV-54,I4,UAV-54 returning for landing.,31.19842,121.5386,,False
+2022-10-28 13:27:00.000000000,DRONE-42,I4,DRONE-42 inbound for landing.,31.25277,121.41099,,False
+2022-10-28 13:27:00.000000000,UAV-59,I1,"UAV-59 requesting departure, White Zone, 40 meters.",31.19082,121.55332,70.0,False
+2022-10-28 13:27:00.000000000,DRONE-67,I6,DRONE-67 on ground.,31.18896,121.56013,,False
+2022-10-28 13:27:15.000000000,Control,,Copy.,31.18896,121.56013,,False
+2022-10-28 13:27:30.000000000,Control,I5,"Control copies, DRONE-42. Report on ground.",31.25277,121.41099,,False
+2022-10-28 13:27:30.000000000,Control,I2,"UAV-59, departure authorized. Wind 306°/18kt.",31.19082,121.55332,70.0,False
+2022-10-28 13:27:30.000000000,Control,I5,"Copy. UAV-54, report on ground.",31.19842,121.5386,,False
+2022-10-28 13:27:47.000000000,Control,I2,Report airborne.,31.19082,121.55332,70.0,True
+2022-10-28 13:28:00.000000000,UAV-54,I6,UAV-54 on ground.,31.19842,121.5386,,False
+2022-10-28 13:28:00.000000000,DRONE-42,I6,DRONE-42 — on the ground.,31.25277,121.41099,,False
+2022-10-28 13:28:00.000000000,UAV-59,,Off the ground.,31.19082,121.55332,,False
+2022-10-28 13:28:15.000000000,Control,,Control copies.,31.19082,121.55332,,False
+2022-10-28 13:28:15.000000000,Control,,Copy 👍,31.19842,121.5386,,False
+2022-10-28 13:28:15.000000000,Control,,Acknowledged.,31.25277,121.41099,,False
+2022-10-28 13:28:21.438506246,AERIAL-50,I3,AERIAL-50 in Green Zone at 30m.,31.250416,121.397464,,False
+2022-10-28 13:29:00.000000000,DRONE-47,I4,DRONE-47 returning for landing.,31.23717,121.4122,,False
+2022-10-28 13:29:30.000000000,Control,I5,"Control copies, DRONE-47. Report on ground.",31.23717,121.4122,,False
+2022-10-28 13:30:00.000000000,DRONE-47,I6,DRONE-47 on ground.,31.23717,121.4122,,False
+2022-10-28 13:30:15.000000000,Control,,Copy.,31.23717,121.4122,,False
+2022-10-28 13:30:22.884998845,UAS-41,I3,UAS-41 in Green Zone at 40m.,31.252577,121.405848,,False
+2022-10-28 13:32:00.000000000,UAV-54,I8,Battery change — UAV-54 back in the air soon.,31.19842,121.5386,,False
+2022-10-28 13:32:00.000000000,AERIAL-35,I4,AERIAL-35 returning for landing.,31.25377,121.44544,,False
+2022-10-28 13:32:15.313990313,DRONE-17,I3,"DRONE-17 reporting — Green Zone, 20m.",31.247695,121.403162,,False
+2022-10-28 13:32:30.000000000,Control,I5,"Copy AERIAL-35, report when on ground.",31.25377,121.44544,,False
+2022-10-28 13:33:00.000000000,AERIAL-35,I6,"AERIAL-35 on ground, mission complete.",31.25377,121.44544,,False
+2022-10-28 13:35:00.000000000,RPA-63,I4,RPA-63 preparing to land.,31.25899,121.40806,,False
+2022-10-28 13:35:30.000000000,Control,I5,"Copy. RPA-63, report on ground.",31.25899,121.40806,,False
+2022-10-28 13:36:00.000000000,RPA-63,I6,"RPA-63 on ground, mission complete.",31.25899,121.40806,,False
+2022-10-28 13:36:00.000000000,DRONE-57,I1,DRONE-57 awaiting takeoff authorization.,31.18774,121.53238,67.0,False
+2022-10-28 13:36:08.000000000,DRONE-57,I1,"Zone: Yellow Zone, 50m.",31.18774,121.53238,67.0,True
+2022-10-28 13:36:15.000000000,Control,,🫡,31.25899,121.40806,,False
+2022-10-28 13:36:30.000000000,Control,I2,"DRONE-57, departure authorized. Wind 277°/13kt.",31.18774,121.53238,67.0,False
+2022-10-28 13:36:47.000000000,Control,I2,Report airborne.,31.18774,121.53238,67.0,True
+2022-10-28 13:37:00.000000000,DRONE-57,,Airborne.,31.18774,121.53238,,False
+2022-10-28 13:37:00.000000000,UAV-49,I4,UAV-49 inbound for landing.,31.16983,121.60534,,False
+2022-10-28 13:37:15.000000000,Control,,Copy 👍,31.18774,121.53238,,False
+2022-10-28 13:37:30.000000000,Control,I5,"Control copies, UAV-49. Report on ground.",31.16983,121.60534,,False
+2022-10-28 13:38:00.000000000,AERIAL-35,I8,AERIAL-35 on ground for battery swap. Returning shortly.,31.25377,121.44544,,False
+2022-10-28 13:38:00.000000000,UAV-49,I6,UAV-49 on ground.,31.16983,121.60534,,False
+2022-10-28 13:38:00.000000000,DRONE-47,I8,DRONE-47 pausing for battery replacement.,31.23717,121.4122,,False
+2022-10-28 13:38:00.000000000,UAV-79,I4,UAV-79 inbound for landing.,31.23507,121.41926,,False
+2022-10-28 13:38:15.000000000,Control,,Noted.,31.16983,121.60534,,False
+2022-10-28 13:38:15.000000000,Control,,🫡,31.23717,121.4122,,False
+2022-10-28 13:38:15.000000000,Control,,Copy.,31.25377,121.44544,,False
+2022-10-28 13:38:30.000000000,Control,I5,"Acknowledged UAV-79, report on ground.",31.23507,121.41926,,False
+2022-10-28 13:39:00.000000000,UAV-79,I6,UAV-79 — on the ground.,31.23507,121.41926,,False
+2022-10-28 13:39:15.000000000,Control,,Copy 👍,31.23507,121.41926,,False
+2022-10-28 13:41:00.000000000,UAS-26,I4,UAS-26 inbound for landing.,31.25274,121.44767,,False
+2022-10-28 13:41:30.000000000,Control,I5,"Control copies, UAS-26. Report on ground.",31.25274,121.44767,,False
+2022-10-28 13:42:00.000000000,RPA-63,I8,Battery change — RPA-63 back in the air soon.,31.25899,121.40806,,False
+2022-10-28 13:42:00.000000000,UAS-26,I6,"UAS-26, landed.",31.25274,121.44767,,False
+2022-10-28 13:42:15.000000000,Control,,🫡,31.25274,121.44767,,False
+2022-10-28 13:45:00.000000000,UAV-54,I1,"Control, UAV-54 requesting takeoff clearance, White Zone, altitude 20m.",31.19842,121.5386,63.0,False
+2022-10-28 13:45:30.000000000,Control,I2,"UAV-54, takeoff at your discretion. Wind 160°/10kt. Report airborne.",31.19842,121.5386,63.0,False
+2022-10-28 13:46:00.000000000,UAV-54,,UAV-54 airborne.,31.19842,121.5386,,False
+2022-10-28 13:46:05.563280322,UAV-59,I3,"UAV-59 reporting — White Zone, 40m.",31.189713,121.557686,,False
+2022-10-28 13:46:15.000000000,Control,,Acknowledged.,31.19842,121.5386,,False
+2022-10-28 13:48:00.000000000,UAV-79,I8,"UAV-79 — battery swap, standby.",31.23507,121.41926,,False
+2022-10-28 13:48:00.000000000,DRONE-47,I1,"DRONE-47 awaiting takeoff authorization, Green Zone, 50m.",31.23717,121.4122,54.0,False
+2022-10-28 13:48:00.000000000,UAV-49,I8,Battery change — UAV-49 back in the air soon.,31.16983,121.60534,,False
+2022-10-28 13:48:15.000000000,Control,,🫡,31.23507,121.41926,,False
+2022-10-28 13:48:30.000000000,Control,I2,Authorized DRONE-47. Wind 277°/13kt. Report airborne.,31.23717,121.4122,54.0,False
+2022-10-28 13:49:00.000000000,DRONE-47,,Airborne.,31.23717,121.4122,,False
+2022-10-28 13:49:15.000000000,Control,,🫡,31.23717,121.4122,,False
+2022-10-28 13:50:00.000000000,AERIAL-35,I1,"AERIAL-35 awaiting takeoff authorization, Blue Zone, 60m.",31.25377,121.44544,40.0,False
+2022-10-28 13:50:30.000000000,Control,I2,"AERIAL-35, departure authorized. Wind 160°/10kt.",31.25377,121.44544,40.0,False
+2022-10-28 13:50:47.000000000,Control,I2,Report airborne.,31.25377,121.44544,40.0,True
+2022-10-28 13:51:00.000000000,UAS-21,I4,UAS-21 inbound for landing.,31.24447,121.53613,,False
+2022-10-28 13:51:00.000000000,AERIAL-35,,Airborne.,31.25377,121.44544,,False
+2022-10-28 13:51:30.000000000,Control,I5,"Copy. UAS-21, report on ground.",31.24447,121.53613,,False
+2022-10-28 13:52:00.000000000,UAS-31,I4,"UAS-31 on final approach, Orange Zone.",31.18921,121.6274,,False
+2022-10-28 13:52:00.000000000,UAS-21,I6,UAS-21 — on the ground.,31.24447,121.53613,,False
+2022-10-28 13:52:30.000000000,Control,I5,"Copy. UAS-31, report on ground.",31.18921,121.6274,,False
+2022-10-28 13:53:00.000000000,UAS-31,I6,"UAS-31 on ground, mission complete.",31.18921,121.6274,,False
+2022-10-28 13:53:15.000000000,Control,,Copy.,31.18921,121.6274,,False
+2022-10-28 13:54:00.000000000,RPA-63,I1,"Control, RPA-63 here.",31.25899,121.40806,75.0,False
+2022-10-28 13:54:08.000000000,RPA-63,I1,"Requesting takeoff, Green Zone, 30m.",31.25899,121.40806,75.0,True
+2022-10-28 13:54:30.000000000,Control,I2,"RPA-63, departure authorized, Green Zone, 30m. Wind 150°/05kt. Report airborne.",31.25899,121.40806,75.0,False
+2022-10-28 13:55:00.000000000,RPA-63,,RPA-63 airborne.,31.25899,121.40806,,False
+2022-10-28 13:55:15.000000000,Control,,"Copy, report on return.",31.25899,121.40806,,False
+2022-10-28 13:56:00.000000000,UAV-59,I4,UAV-59 inbound for landing.,31.18908,121.56018,,False
+2022-10-28 13:56:30.000000000,Control,I5,"Acknowledged UAV-59, report on ground.",31.18908,121.56018,,False
+2022-10-28 13:57:00.000000000,UAV-59,I6,"UAV-59 on ground, mission complete.",31.18908,121.56018,,False
+2022-10-28 13:57:15.000000000,Control,,Copy 👍,31.18908,121.56018,,False
+2022-10-28 13:58:00.000000000,AERIAL-20,I4,AERIAL-20 returning for landing.,31.2509,121.39986,,False
+2022-10-28 13:58:30.000000000,Control,I5,"Control copies, AERIAL-20. Report on ground.",31.2509,121.39986,,False
+2022-10-28 13:59:00.000000000,AERIAL-20,I6,AERIAL-20 on ground.,31.2509,121.39986,,False
+2022-10-28 14:01:00.000000000,DRONE-57,I4,"DRONE-57 on final approach, Yellow Zone.",31.18789,121.53068,,False
+2022-10-28 14:01:00.000000000,UAV-49,I1,UAV-49 awaiting takeoff authorization.,31.16983,121.60534,57.0,False
+2022-10-28 14:01:08.000000000,UAV-49,I1,"Zone: Orange Zone, 50m.",31.16983,121.60534,57.0,True
+2022-10-28 14:01:27.127134119,RPA-63,I3,"RPA-63 — Green Zone, 30m, en route.",31.255518,121.404597,,False
+2022-10-28 14:01:30.000000000,Control,I5,"Acknowledged DRONE-57, report on ground.",31.18789,121.53068,,False
+2022-10-28 14:01:30.000000000,Control,I2,"UAV-49, takeoff at your discretion. Wind 150°/05kt. Report airborne.",31.16983,121.60534,57.0,False
+2022-10-28 14:02:00.000000000,UAV-49,,UAV-49 off ground.,31.16983,121.60534,,False
+2022-10-28 14:02:00.000000000,DRONE-57,I6,DRONE-57 on ground.,31.18789,121.53068,,False
+2022-10-28 14:02:00.000000000,UAV-79,I1,"UAV-79 awaiting takeoff authorization, Green Zone, 30m.",31.23507,121.41926,93.0,False
+2022-10-28 14:02:00.000000000,DRONE-47,I4,"DRONE-47 on final approach, Green Zone.",31.25106,121.40001,,False
+2022-10-28 14:02:15.000000000,Control,,Acknowledged.,31.16983,121.60534,,False
+2022-10-28 14:02:15.000000000,Control,,"Copy, thanks.",31.18789,121.53068,,False
+2022-10-28 14:02:27.029545875,Control,outros,All clear in this sector.,31.253466,121.412537,,False
+2022-10-28 14:02:30.000000000,Control,I2,"UAV-79, departure authorized. Wind 160°/10kt.",31.23507,121.41926,93.0,False
+2022-10-28 14:02:30.000000000,Control,I5,"Control copies, DRONE-47. Report on ground.",31.25106,121.40001,,False
+2022-10-28 14:02:47.000000000,Control,I2,Report airborne.,31.23507,121.41926,93.0,True
+2022-10-28 14:03:00.000000000,DRONE-47,I6,DRONE-47 — on the ground.,31.25106,121.40001,,False
+2022-10-28 14:03:00.000000000,UAV-79,,UAV-79 off ground.,31.23507,121.41926,,False
+2022-10-28 14:03:15.000000000,Control,,Control copies.,31.23507,121.41926,,False
+2022-10-28 14:04:00.000000000,UAV-19,I4,"UAV-19 on final approach, Blue Zone.",31.23442,121.44756,,False
+2022-10-28 14:04:30.000000000,Control,I5,"Control copies, UAV-19. Report on ground.",31.23442,121.44756,,False
+2022-10-28 14:05:00.000000000,UAV-19,I6,"UAV-19, landed.",31.23442,121.44756,,False
+2022-10-28 14:06:00.000000000,UAS-46,I4,"UAS-46 on final approach, Red Zone.",31.24551,121.53883,,False
+2022-10-28 14:06:30.000000000,Control,I5,"Control copies, UAS-46. Report on ground.",31.24551,121.53883,,False
+2022-10-28 14:07:00.000000000,UAS-46,I6,UAS-46 — on the ground.,31.24551,121.53883,,False
+2022-10-28 14:07:15.000000000,Control,,Noted.,31.24551,121.53883,,False
+2022-10-28 14:10:00.000000000,AERIAL-55,I4,AERIAL-55 preparing to land.,31.2422,121.44996,,False
+2022-10-28 14:10:00.000000000,RPA-63,I4,RPA-63 returning for landing.,31.25107,121.40016,,False
+2022-10-28 14:10:30.000000000,Control,I5,"Acknowledged AERIAL-55, report on ground.",31.2422,121.44996,,False
+2022-10-28 14:10:30.000000000,Control,I5,"Copy. RPA-63, report on ground.",31.25107,121.40016,,False
+2022-10-28 14:11:00.000000000,RPA-63,I6,RPA-63 on ground.,31.25107,121.40016,,False
+2022-10-28 14:11:00.000000000,AERIAL-55,I6,AERIAL-55 on ground.,31.2422,121.44996,,False
+2022-10-28 14:11:15.000000000,Control,,"Copy, thanks.",31.25107,121.40016,,False
+2022-10-28 14:11:15.000000000,Control,,"Copy, thanks.",31.2422,121.44996,,False
+2022-10-28 14:11:39.883540224,UAV-79,I3,"UAV-79 position: Green Zone, altitude 30m.",31.242763,121.409972,,False
+2022-10-28 14:12:00.000000000,UAV-54,I4,UAV-54 returning for landing.,31.18893,121.56019,,False
+2022-10-28 14:12:30.000000000,Control,I5,"Copy UAV-54, report when on ground.",31.18893,121.56019,,False
+2022-10-28 14:13:00.000000000,UAV-54,I6,UAV-54 — on the ground.,31.18893,121.56019,,False
+2022-10-28 14:13:15.000000000,Control,,Copy 👍,31.18893,121.56019,,False
+2022-10-28 14:14:00.000000000,AERIAL-35,I4,AERIAL-35 returning for landing.,31.24043,121.43558,,False
+2022-10-28 14:14:13.544522214,UAV-49,I3,"UAV-49 — Orange Zone, 50m, en route.",31.172503,121.61781,,False
+2022-10-28 14:14:30.000000000,Control,I5,"Copy. AERIAL-35, report on ground.",31.24043,121.43558,,False
+2022-10-28 14:15:00.000000000,AERIAL-35,I6,AERIAL-35 on ground.,31.24043,121.43558,,False
+2022-10-28 14:15:15.000000000,Control,,"Copy, thanks.",31.24043,121.43558,,False
+2022-10-28 14:19:00.000000000,AERIAL-15,I4,AERIAL-15 returning for landing.,31.24232,121.54632,,False
+2022-10-28 14:19:30.000000000,Control,I5,"Copy AERIAL-15, report when on ground.",31.24232,121.54632,,False
+2022-10-28 14:19:40.568518936,Control,outros,Anyone available for frequency check?,31.237583,121.551437,,False
+2022-10-28 14:20:00.000000000,AERIAL-15,I6,AERIAL-15 on ground.,31.24232,121.54632,,False
+2022-10-28 14:20:15.000000000,Control,,Noted.,31.24232,121.54632,,False
+2022-10-28 14:20:44.997203493,DRONE-12,I3,"DRONE-12 — Orange Zone, 60m, en route.",31.178554,121.63231,,False
+2022-10-28 14:21:00.000000000,UAV-79,I4,UAV-79 returning for landing.,31.25099,121.40004,,False
+2022-10-28 14:21:30.000000000,Control,I5,"Control copies, UAV-79. Report on ground.",31.25099,121.40004,,False
+2022-10-28 14:22:00.000000000,UAS-41,I4,"UAS-41 on final approach, Green Zone.",31.25408,121.41111,,False
+2022-10-28 14:22:00.000000000,UAV-79,I6,UAV-79 on ground.,31.25099,121.40004,,False
+2022-10-28 14:22:15.000000000,Control,,Copy.,31.25099,121.40004,,False
+2022-10-28 14:22:30.000000000,Control,I5,"Copy UAS-41, report when on ground.",31.25408,121.41111,,False
+2022-10-28 14:23:00.000000000,UAS-41,I6,"UAS-41, landed.",31.25408,121.41111,,False
+2022-10-28 14:23:15.000000000,Control,,Acknowledged.,31.25408,121.41111,,False
+2022-10-28 14:28:00.000000000,UAV-34,I4,UAV-34 returning for landing.,31.23991,121.44372,,False
+2022-10-28 14:28:00.000000000,UAV-49,I4,UAV-49 preparing to land.,31.17549,121.63174,,False
+2022-10-28 14:28:30.000000000,Control,I5,"Control copies, UAV-34. Report on ground.",31.23991,121.44372,,False
+2022-10-28 14:28:30.000000000,Control,I5,"Acknowledged UAV-49, report on ground.",31.17549,121.63174,,False
+2022-10-28 14:29:00.000000000,UAV-34,I6,UAV-34 — on the ground.,31.23991,121.44372,,False
+2022-10-28 14:29:00.000000000,UAV-49,I6,"UAV-49 on ground, mission complete.",31.17549,121.63174,,False
+2022-10-28 14:29:15.000000000,Control,,🫡,31.17549,121.63174,,False
+2022-10-28 14:34:00.000000000,AERIAL-50,I4,AERIAL-50 returning for landing.,31.24909,121.3917,,False
+2022-10-28 14:34:30.000000000,Control,I5,"Copy AERIAL-50, report when on ground.",31.24909,121.3917,,False
+2022-10-28 14:35:00.000000000,AERIAL-50,I6,"AERIAL-50, landed.",31.24909,121.3917,,False
+2022-10-28 14:35:15.000000000,Control,,Acknowledged.,31.24909,121.3917,,False
+2022-10-28 14:35:52.298959290,UAS-11,I3,"UAS-11 reporting — Orange Zone, 30m.",31.175888,121.632615,,False
+2022-10-28 14:38:57.597388291,DRONE-12,I3,DRONE-12 in Orange Zone at 60m.,31.179194,121.632422,,False
+2022-10-28 14:43:00.000000000,RPA-18,I4,RPA-18 inbound for landing.,31.24296,121.39967,,False
+2022-10-28 14:43:30.000000000,Control,I5,"Copy RPA-18, report when on ground.",31.24296,121.39967,,False
+2022-10-28 14:44:00.000000000,RPA-18,I6,"RPA-18 on ground, mission complete.",31.24296,121.39967,,False
+2022-10-28 14:44:15.000000000,Control,,Copy 👍,31.24296,121.39967,,False
+2022-10-28 14:53:03.402206311,Control,outros,All clear in this sector.,31.24289,121.407771,,False
+2022-10-28 15:01:00.000000000,AERIAL-25,I4,AERIAL-25 inbound for landing.,31.24435,121.40269,,False
+2022-10-28 15:01:30.000000000,Control,I5,"Acknowledged AERIAL-25, report on ground.",31.24435,121.40269,,False
+2022-10-28 15:02:00.000000000,AERIAL-25,I6,AERIAL-25 — on the ground.,31.24435,121.40269,,False
+2022-10-28 15:02:15.000000000,Control,,Copy 👍,31.24435,121.40269,,False
+2022-10-28 15:03:00.000000000,RPA-23,I4,RPA-23 inbound for landing.,31.25476,121.41921,,False
+2022-10-28 15:03:30.000000000,Control,I5,"Copy. RPA-23, report on ground.",31.25476,121.41921,,False
+2022-10-28 15:04:00.000000000,RPA-23,I6,RPA-23 on ground.,31.25476,121.41921,,False
+2022-10-28 15:05:00.000000000,UAS-16,I4,UAS-16 returning for landing.,31.18809,121.5304,,False
+2022-10-28 15:05:30.000000000,Control,I5,"Acknowledged UAS-16, report on ground.",31.18809,121.5304,,False
+2022-10-28 15:06:00.000000000,UAS-16,I6,"UAS-16, landed.",31.18809,121.5304,,False
+2022-10-28 15:09:00.000000000,UAS-16,I8,"UAS-16 — battery swap, standby.",31.18809,121.5304,,False
+2022-10-28 15:09:15.000000000,Control,,Copy.,31.18809,121.5304,,False
+2022-10-28 15:13:29.326205564,UAS-01,I3,UAS-01 overflying Orange Zone — 20 meters.,31.179286,121.63089,,False
+2022-10-28 15:19:00.000000000,UAS-16,I1,"Control, UAS-16 requesting takeoff. Yellow Zone, 40m.",31.18809,121.5304,20.0,False
+2022-10-28 15:19:30.000000000,Control,I2,"UAS-16, departure authorized, Yellow Zone, 40m. Wind 306°/18kt. Report airborne.",31.18809,121.5304,20.0,False
+2022-10-28 15:20:00.000000000,UAS-16,,UAS-16 off ground.,31.18809,121.5304,,False
+2022-10-28 15:20:15.000000000,Control,,"Copy, report on return.",31.18809,121.5304,,False
+2022-10-28 15:31:35.386340471,UAS-16,I3,UAS-16 in Yellow Zone at 40m.,31.187831,121.530607,,False
+2022-10-28 15:35:00.000000000,UAS-16,I4,UAS-16 preparing to land.,31.18774,121.53068,,False
+2022-10-28 15:35:30.000000000,Control,I5,"Control copies, UAS-16. Report on ground.",31.18774,121.53068,,False
+2022-10-28 15:36:00.000000000,UAS-16,I6,"UAS-16 on ground, mission complete.",31.18774,121.53068,,False
+2022-10-28 15:36:15.000000000,Control,,🫡,31.18774,121.53068,,False
+2022-10-28 15:59:00.000000000,DRONE-17,I4,DRONE-17 returning for landing.,31.23891,121.41159,,False
+2022-10-28 15:59:30.000000000,Control,I5,"Acknowledged DRONE-17, report on ground.",31.23891,121.41159,,False
+2022-10-28 16:00:00.000000000,DRONE-17,I6,DRONE-17 — on the ground.,31.23891,121.41159,,False
+2022-10-28 16:00:15.000000000,Control,,"Copy, thanks.",31.23891,121.41159,,False
+2022-10-28 16:03:00.000000000,UAV-14,I4,UAV-14 preparing to land.,31.17636,121.53657,,False
+2022-10-28 16:03:30.000000000,Control,I5,"Acknowledged UAV-14, report on ground.",31.17636,121.53657,,False
+2022-10-28 16:04:00.000000000,UAV-14,I6,UAV-14 on ground.,31.17636,121.53657,,False
+2022-10-28 16:08:00.000000000,UAV-14,I8,UAV-14 on ground for battery swap. Returning shortly.,31.17636,121.53657,,False
+2022-10-28 16:15:00.000000000,UAV-14,I1,"UAV-14 requesting departure, Yellow Zone, 40 meters.",31.17636,121.53657,17.0,False
+2022-10-28 16:15:30.000000000,Control,I2,Authorized UAV-14. Wind 306°/18kt. Report airborne.,31.17636,121.53657,17.0,False
+2022-10-28 16:16:00.000000000,UAV-14,,Aircraft off ground.,31.17636,121.53657,,False
+2022-10-28 16:16:15.000000000,Control,,🫡,31.17636,121.53657,,False
+2022-10-28 16:23:14.101781603,Control,outros,Any teams operating at the moment?,31.181344,121.533995,,False
+2022-10-28 16:31:00.000000000,AERIAL-10,I4,AERIAL-10 preparing to land.,31.24175,121.55069,,False
+2022-10-28 16:31:30.000000000,Control,I5,"Control copies, AERIAL-10. Report on ground.",31.24175,121.55069,,False
+2022-10-28 16:32:00.000000000,AERIAL-10,I6,AERIAL-10 on ground.,31.24175,121.55069,,False
+2022-10-28 16:33:00.000000000,UAV-14,I4,"UAV-14 on final approach, Yellow Zone.",31.18786,121.53063,,False
+2022-10-28 16:33:00.000000000,UAS-11,I4,UAS-11 inbound for landing.,31.17616,121.63307,,False
+2022-10-28 16:33:30.000000000,Control,I5,"Copy UAS-11, report when on ground.",31.17616,121.63307,,False
+2022-10-28 16:33:30.000000000,Control,I5,"Copy UAV-14, report when on ground.",31.18786,121.53063,,False
+2022-10-28 16:34:00.000000000,UAV-14,I6,UAV-14 — on the ground.,31.18786,121.53063,,False
+2022-10-28 16:34:00.000000000,UAS-11,I6,"UAS-11, landed.",31.17616,121.63307,,False
+2022-10-28 16:34:15.000000000,Control,,Copy.,31.18786,121.53063,,False
+2022-10-28 16:34:15.000000000,Control,,Copy 👍,31.17616,121.63307,,False
+2022-10-28 16:41:04.214659090,DRONE-02,I3,"DRONE-02 position: Orange Zone, altitude 30m.",31.184807,121.605776,,False
+2022-10-28 16:55:00.000000000,UAV-09,I4,UAV-09 returning for landing.,31.23376,121.55526,,False
+2022-10-28 16:55:30.000000000,Control,I5,"Control copies, UAV-09. Report on ground.",31.23376,121.55526,,False
+2022-10-28 16:56:00.000000000,UAV-09,I6,UAV-09 on ground.,31.23376,121.55526,,False
+2022-10-28 17:02:00.000000000,UAV-09,I8,Battery change — UAV-09 back in the air soon.,31.23376,121.55526,,False
+2022-10-28 17:10:00.000000000,UAV-09,I1,"Control, UAV-09 requesting takeoff. Red Zone, 60m.",31.23376,121.55526,11.0,False
+2022-10-28 17:10:30.000000000,Control,I2,"UAV-09, takeoff at your discretion. Wind 233°/18kt. Report airborne.",31.23376,121.55526,11.0,False
+2022-10-28 17:11:00.000000000,UAV-09,,Airborne.,31.23376,121.55526,,False
+2022-10-28 17:11:15.000000000,Control,,🫡,31.23376,121.55526,,False
+2022-10-28 17:16:22.662955940,UAV-09,I3,UAV-09 overflying Red Zone — 60 meters.,31.237937,121.551083,,False
+2022-10-28 17:23:00.000000000,UAV-09,I4,UAV-09 preparing to land.,31.24293,121.54609,,False
+2022-10-28 17:23:30.000000000,Control,I5,"Control copies, UAV-09. Report on ground.",31.24293,121.54609,,False
+2022-10-28 17:24:00.000000000,UAV-09,I6,UAV-09 — on the ground.,31.24293,121.54609,,False
+2022-10-28 17:48:00.000000000,RPA-13,I4,RPA-13 preparing to land.,31.1893,121.56007,,False
+2022-10-28 17:48:30.000000000,Control,I5,"Control copies, RPA-13. Report on ground.",31.1893,121.56007,,False
+2022-10-28 17:49:00.000000000,RPA-13,I6,RPA-13 — on the ground.,31.1893,121.56007,,False
+2022-10-28 18:01:00.000000000,DRONE-12,I4,DRONE-12 returning for landing.,31.18633,121.63367,,False
+2022-10-28 18:01:30.000000000,Control,I5,"Control copies, DRONE-12. Report on ground.",31.18633,121.63367,,False
+2022-10-28 18:02:00.000000000,DRONE-12,I6,DRONE-12 on ground.,31.18633,121.63367,,False
+2022-10-28 18:02:15.000000000,Control,,Noted.,31.18633,121.63367,,False
+2022-10-28 18:10:00.000000000,UAV-04,I4,UAV-04 inbound for landing.,31.17744,121.63486,,False
+2022-10-28 18:10:30.000000000,Control,I5,"Copy. UAV-04, report on ground.",31.17744,121.63486,,False
+2022-10-28 18:11:00.000000000,UAV-04,I6,"UAV-04 on ground, mission complete.",31.17744,121.63486,,False
+2022-10-28 18:11:15.000000000,Control,,Acknowledged.,31.17744,121.63486,,False
+2022-10-28 18:24:00.000000000,DRONE-07,I4,"DRONE-07 on final approach, Orange Zone.",31.21932,121.62396,,False
+2022-10-28 18:24:30.000000000,Control,I5,"Copy DRONE-07, report when on ground.",31.21932,121.62396,,False
+2022-10-28 18:25:00.000000000,DRONE-07,I6,DRONE-07 on ground.,31.21932,121.62396,,False
+2022-10-28 18:25:15.000000000,Control,,Noted.,31.21932,121.62396,,False
+2022-10-28 18:40:00.000000000,RPA-03,I4,RPA-03 preparing to land.,31.23742,121.54525,,False
+2022-10-28 18:40:30.000000000,Control,I5,"Copy. RPA-03, report on ground.",31.23742,121.54525,,False
+2022-10-28 18:41:00.000000000,RPA-08,I4,RPA-08 returning for landing.,31.1751,121.63251,,False
+2022-10-28 18:41:00.000000000,RPA-03,I6,"RPA-03 on ground, mission complete.",31.23742,121.54525,,False
+2022-10-28 18:41:15.000000000,Control,,🫡,31.23742,121.54525,,False
+2022-10-28 18:41:30.000000000,Control,I5,"Acknowledged RPA-08, report on ground.",31.1751,121.63251,,False
+2022-10-28 18:42:00.000000000,RPA-08,I6,RPA-08 — on the ground.,31.1751,121.63251,,False
+2022-10-28 18:49:00.000000000,RPA-03,I8,RPA-03 pausing for battery replacement.,31.23742,121.54525,,False
+2022-10-28 19:04:00.000000000,RPA-03,I1,"RPA-03 requesting departure, Red Zone, 20 meters.",31.23742,121.54525,4.0,False
+2022-10-28 19:04:30.000000000,Control,I2,Authorized RPA-03. Wind 233°/18kt. Report airborne.,31.23742,121.54525,4.0,False
+2022-10-28 19:05:00.000000000,RPA-03,,RPA-03 airborne.,31.23742,121.54525,,False
+2022-10-28 19:07:00.000000000,AERIAL-05,I4,"AERIAL-05 on final approach, Yellow Zone.",31.18937,121.53701,,False
+2022-10-28 19:07:30.000000000,Control,I5,"Control copies, AERIAL-05. Report on ground.",31.18937,121.53701,,False
+2022-10-28 19:08:00.000000000,AERIAL-05,I6,AERIAL-05 on ground.,31.18937,121.53701,,False
+2022-10-28 19:15:00.000000000,UAS-06,I4,UAS-06 returning for landing.,31.297,121.57954,,False
+2022-10-28 19:15:30.000000000,Control,I5,"Control copies, UAS-06. Report on ground.",31.297,121.57954,,False
+2022-10-28 19:15:57.125978941,RPA-03,I3,RPA-03 overflying Red Zone — 20 meters.,31.239695,121.5456,,False
+2022-10-28 19:16:00.000000000,UAS-06,I6,"UAS-06 on ground, mission complete.",31.297,121.57954,,False
+2022-10-28 19:32:00.000000000,RPA-03,I4,RPA-03 preparing to land.,31.24294,121.5461,,False
+2022-10-28 19:32:30.000000000,Control,I5,"Acknowledged RPA-03, report on ground.",31.24294,121.5461,,False
+2022-10-28 19:33:00.000000000,RPA-03,I6,RPA-03 — on the ground.,31.24294,121.5461,,False
+2022-10-28 19:33:15.000000000,Control,,Acknowledged.,31.24294,121.5461,,False
+2022-10-28 19:49:00.000000000,UAS-01,I4,UAS-01 inbound for landing.,31.18321,121.63004,,False
+2022-10-28 19:49:30.000000000,Control,I5,"Copy UAS-01, report when on ground.",31.18321,121.63004,,False
+2022-10-28 19:50:00.000000000,UAS-01,I6,UAS-01 — on the ground.,31.18321,121.63004,,False
+2022-10-28 19:50:15.000000000,Control,,Copy 👍,31.18321,121.63004,,False
+2022-10-28 21:47:00.000000000,DRONE-02,I4,DRONE-02 inbound for landing.,31.19772,121.57017,,False
+2022-10-28 21:47:30.000000000,Control,I5,"Control copies, DRONE-02. Report on ground.",31.19772,121.57017,,False
+2022-10-28 21:48:00.000000000,DRONE-02,I6,DRONE-02 — on the ground.,31.19772,121.57017,,False
+2022-10-28 21:48:15.000000000,Control,,🫡,31.19772,121.57017,,False
